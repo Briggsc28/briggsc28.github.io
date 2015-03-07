@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Chris Briggs' Blog
 locale:           en_US
 url:              
 
@@ -26,8 +26,8 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Chris Briggs
+  avatar: bio-photo-T1.png
   bio: "Describe your self."
   email: 
   disqus-shortname: 
