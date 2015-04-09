@@ -14,10 +14,11 @@ image:
 Recently I was investigating Azure Machine learning (ML) and tinkering with some code based on the [Microsoft Request-Response Service example](http://azure.microsoft.com/en-gb/documentation/articles/machine-learning-consume-web-services/) . 
 
 
+
 The following is an example of the JSON returned from the Azure ML Request-Response Service (RRS) I was working with: 
 
 
-{"Results":{"Profit Prediction":{"type":"table","value":{"ColumnNames":["Scored Labels"],"ColumnTypes":["Double"],"Values":[["8614.8388671875"]]}}}}
+>{"Results":{"Profit Prediction":{"type":"table","value":{"ColumnNames":["Scored Labels"],"ColumnTypes":["Double"],"Values":[["8614.8388671875"]]}}}}
 
 
 I thought this was great, generated a new class from a paste special with the JSON returned from Azure ML, added the Newton JSON package, attempted to deserialise the repose than… 
@@ -32,8 +33,8 @@ To cut a long story short, I found the cause of the error was that the PropertyN
 
 
 
-[JsonProperty(PropertyName = "Profit Prediction")]
-public ProfitPrediction ProfitPrediction { get; set; }
+>[JsonProperty(PropertyName = "Profit Prediction")]
+>public ProfitPrediction ProfitPrediction { get; set; }
 
 
 Adding this attribute has solved the issue, completely.
