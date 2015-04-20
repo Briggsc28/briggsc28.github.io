@@ -21,3 +21,9 @@ There are three steps to rendering a Report within a Web-API:
 1. Add the Report Rendering API Endpoint
 
 [Where's Step one? See the previous blog post!](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
+
+## Step Two : Add Microsoft Report Viewer WebForms NuGet package 
+
+>PM> Install-Package MicosoftReportViewerWebForms_v11
+
+Technically the only way to create an SSRS report is to make use of the ASP.NET WebForms Microsoft ReportViewer web control. However, we will export this report to a pdf rather than passing it on to a WebForms control.
