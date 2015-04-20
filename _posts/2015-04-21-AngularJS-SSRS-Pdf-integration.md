@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Integrating SSRS Web-API and AngularJS Part Three
-excerpt: "How do we display the reports rendered from the Web-API"
+excerpt: "Using PDF.JS to display reports nicely within an AngularJS SPA"
 modified: 2015-04-20
-tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services ]
+tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services, PDF.js  ]
 comments: true
 image:
   feature: sample-image-5.jpg
@@ -30,16 +30,8 @@ During a recent project, I observed that a web browsers behaviour when displayin
 
 PDF.js can be found on [github](https://mozilla.github.io/pdf.js/)
 
-Firstly we need to Set up as per thingy
+This last step is as simple as adding PDF.JS to your solution. Then call it on the client-side by passing in the pdf by the 'file' URL parameter. For Example:  
 
-Than Convert the convertPdfStringToBinary
-
-  var rawLength = raw.length;
-  var array = new Uint8Array(new ArrayBuffer(rawLength));
- 
-  for(i = 0; i < rawLength; i++) {
-    array[i] = raw.charCodeAt(i);
-  }
-  return array;
+>window.open('/app/pdfviewer/web/viewer.html?file='firebootcamp.sswtimeprolocal.com/Reporting/GetInvoiceReport?invoiceId=' + $scope.invoice.InvoiceID);
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
