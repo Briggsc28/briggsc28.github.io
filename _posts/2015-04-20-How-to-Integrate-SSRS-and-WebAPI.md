@@ -14,3 +14,10 @@ image:
 In [a previous blog post](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
 , I discussed the issues surrounding integrating SQL Server Reporting Services (SSRS), AngularJS and Web-API. In this post, I will be outlining how we can easily render an SSRS report within a Web-API.
 
+There are three steps to rendering a Report within a Web-API:
+
+1. Add Microsoft Report Viewer WebForms NuGet package
+1. Create the ReportDTO
+1. Add the Report Rendering API Endpoint
+
+[Where's Step one? See the previous blog post!](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
