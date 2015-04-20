@@ -41,5 +41,7 @@ By converting the report from an RDL to an RDLC, we will perform the processing 
 4.	Install the add-on xpatherizernpp for notpad https://code.google.com/p/xpatherizernpp/
 5.	Open  Xpath window and perform a search for *//DataSets*
 
+[Where's the next step? See the next blog post!](http://blog.chrisbriggsy.com/How-to-Integrate-SSRS-and-WebAPI/)
+
 Feel free to tweet me a comments, feedback or questions to @ChrisBriggsy
 
