@@ -35,3 +35,5 @@ Add the following Class to your solution.
 {% gist dcd2d395c12fe83f66dd %}
 
 Looking at this ReportDTO it may seem confusing why we are passing around strings rather than the objects required by the Webforms control. The following tip will save many hours tedious debugging.
+
+![Error ocurrs when attempting to pass in a dieselized ReportParmater or ReportDatasource](/images/2015-04-20_16-15-11-compressor.png)
