@@ -31,3 +31,5 @@ Technically the only way to create an SSRS report is to make use of the ASP.NET 
 ## Step Three : Create the ReportDTO
 
 Add the following Class to your solution. 
+
+Looking at this ReportDTO it may seem confusing why we are passing around strings rather than the objects required by the Webforms control. The following tip will save many hours tedious debugging.
