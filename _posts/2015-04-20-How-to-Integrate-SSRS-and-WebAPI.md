@@ -32,9 +32,10 @@ Technically the only way to create an SSRS report is to make use of the ASP.NET 
 
 Add the following Class to your solution. 
 
+<script src="https://gist.github.com/ChrisBriggsy/dcd2d395c12fe83f66dd.js"></script>
 
 Looking at this ReportDTO it may seem confusing why we are passing around strings rather than the objects required by the Webforms control. The following tip will save many hours tedious debugging: 
 
-![Error ocurrs when attempting to pass in a dieselized ReportParmater or ReportDatasource](/images/2015-04-20_16-15-11-compressor.png)
+
 
 Due to the way the WebForms control works internally if you attempt to pass in a dieselized ReportParmater or ReportDatasource…It will fail to create the required data reader, as can be seen in the image above.
