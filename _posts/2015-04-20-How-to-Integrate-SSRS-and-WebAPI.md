@@ -39,3 +39,25 @@ Looking at this ReportDTO it may seem confusing why we are passing around string
 ![Error ocurrs when attempting to pass in a dieselized ReportParmater or ReportDatasource](/images/2015-04-20_16-15-11-compressor.png)
 
 Due to the way the WebForms control works internally if you attempt to pass in a dieselized ReportParmater or ReportDatasource. It will fail to create the required data reader, as can be seen in the image above.
+
+## Step Four : Add the Report Rendering API Endpoint
+
+This step requires tweaking for each different case, but you can use the following API endpoint as an example.
+
+{% gist ca32c491c122eb71ce3b %}
+
+
+Quick run down of the Pseudocode for this API endpoint 
+
+1. Add Deserialize the string input into a ReportDTO object
+1. Set Up the ReportViewer 
+1. Set the ReportViewer ProcessingMode to Local
+1. Turn set the parameters from the ReportDTO
+1. Create a Datatable from the ReportDTO which will contain all of the Data to be displayed
+1. Add the created Datatable to the ReportViewer as a DataSource
+1. Set the source of the Report
+1. Render the report to a byte array
+1. Return the byte array to the client 
+
+
+Feel free to tweet me a comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
