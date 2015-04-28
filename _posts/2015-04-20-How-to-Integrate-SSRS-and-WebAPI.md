@@ -49,8 +49,8 @@ This step requires tweaking for each different case, but you can use the followi
 
 Quick run down of the Pseudocode for this API endpoint 
 
-1. Add Deserialize the string input into a ReportDTO object
-1. Set Up the ReportViewer 
+1. Deserialize the string input into a ReportDTO object
+1. Initialise the ReportViewer 
 1. Set the ReportViewer ProcessingMode to Local
 1. Turn set the parameters from the ReportDTO
 1. Create a Datatable from the ReportDTO which will contain all of the Data to be displayed
@@ -59,5 +59,6 @@ Quick run down of the Pseudocode for this API endpoint
 1. Render the report to a byte array
 1. Return the byte array to the client 
 
+[Now the API is returning a PDF, what's the best way to display it?](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
 
 Feel free to tweet me a comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).

@@ -14,7 +14,7 @@ image:
 So far in the series of articles we've covered:
 
 * [Issues surrounding integrating SQL Server Reporting Services (SSRS), AngularJS and Web-API. ](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
-* [How to render an SSRS report within a Web-API ](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
+* [How to render an SSRS report within a Web-API ](http://blog.chrisbriggsy.com/How-to-Integrate-SSRS-and-WebAPI/)
 
 In this blog post we will be covering a great way to display the report pdf returned by the Web API in AngularJS.
 
