@@ -28,7 +28,9 @@ During a recent project, I observed that a web browsers behaviour when displayin
 
 ## Step Five : Using PDF.JS
 
-PDF.js can be found on [github](https://mozilla.github.io/pdf.js/)
+PDF.js can be found on [github](https://mozilla.github.io/pdf.js/). It is a great general-purpose, JavaScript library which renders PDF files using the HTML5 Canvas.
+
+![PDF.js in action](/images/2015-04-29_10-09-56-compressor.png)
 
 This last step is as simple as adding PDF.JS to your solution. Then call it on the client-side by passing in the pdf by the 'file' URL parameter. For Example:  
 
