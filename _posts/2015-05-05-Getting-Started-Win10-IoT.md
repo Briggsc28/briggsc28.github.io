@@ -21,12 +21,13 @@ So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 
 # Step 1: Enable developer mode 
 As of the current build of Window 10 (10074), it is difficult and confusing to enable developer mode, as can be seen in the video below: 
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/hZmBd_EyTP8" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
 The following let you easily enable developer mode:
 
 1.    Open an Administrator Powershell and run the following commands: 
 1.    reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1"
 1.    reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowAllTrustedApps" /d "1"
-
 
 # Step 2: Turn on the Windows Remote Management Service
 
