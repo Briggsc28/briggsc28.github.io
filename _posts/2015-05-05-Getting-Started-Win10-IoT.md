@@ -31,7 +31,9 @@ The following let you easily enable developer mode:
 # Step 2: Turn on the Windows Remote Management Service
 
 Without the Windows Remote Management Service running your Window 10 device will be unable to communicate with your Pi.
+
 1.    Windows Key + R
 1.    type services.msc
 1.    Find Windows Remote Management Service.
 1.    Start the service
+
