@@ -26,3 +26,12 @@ The following let you easily enable developer mode:
 1.    Open an Administrator Powershell and run the following commands: 
 1.    reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1"
 1.    reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowAllTrustedApps" /d "1"
+
+
+# Step 2: Turn on the Windows Remote Management Service
+
+Without the Windows Remote Management Service running your Window 10 device will be unable to communicate with your Pi.
+1.    Windows Key + R
+1.    type services.msc
+1.    Find Windows Remote Management Service.
+1.    Start the service
