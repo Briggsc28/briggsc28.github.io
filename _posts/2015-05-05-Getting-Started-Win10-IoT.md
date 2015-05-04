@@ -43,4 +43,4 @@ Currently an active PS session is required for visual studio to perform remote d
 
 1.    Open an Administrator Powershell and run the following commands:
 1.    Set-Item WSMan:\localhost\Client\TrustedHosts -Value <The Pi's IP Address>
-1.    remove-module psreadline –force
+1.    remove-module psreadline -force
