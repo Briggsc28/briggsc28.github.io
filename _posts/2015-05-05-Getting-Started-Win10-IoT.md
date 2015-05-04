@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-So you’ve set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 and [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) isn’t working? 
+So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 and [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) isn't working? 
 
 *  Getting many strange errors?
 *  Currently scared, confused and wondering if your Pi is secretly Skynet or HAL?
@@ -44,13 +44,13 @@ Without the Windows Remote Management Service running your Window 10 device will
 Currently an active PS session is required for visual studio to perform remote debugging on the Windows 10 IoT Core Insider Preview.
 
 1.    Open an Administrator Powershell and run the following commands:
-1.    Set-Item WSMan:\localhost\Client\TrustedHosts -Value <The Pi’s IP Address>
+1.    Set-Item WSMan:\localhost\Client\TrustedHosts -Value <The Pi's IP Address>
 1.    remove-module psreadline –force
-1.    Enter-pssession -ComputerName <The Pi’s IP Address> -Credential <The Pi’s IP Address>\Administrator
+1.    Enter-pssession -ComputerName <The Pi's IP Address> -Credential <The Pi's IP Address>\Administrator
 1.    Enter p@ssw0rd in the password field 
 1.    Once the shell is connected run the following command hostname if the named returned is the name of the PI than your ready to go!
 
-Please note when replacing the <The Pi’s IP Address> you must also remove the brackets!
+Please note when replacing the <The Pi's IP Address> you must also remove the brackets!
 
 Now lets give [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) another go!
 
