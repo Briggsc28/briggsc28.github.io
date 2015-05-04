@@ -22,7 +22,7 @@ So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 
 As of the current build of Window 10 (10074), it is difficult and confusing to enable developer mode, as can be seen in the video below: 
 
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/hZmBd_EyTP8 " frameborder="0"> </iframe>
+
 
 The following let you easily enable developer mode:
 
@@ -54,6 +54,6 @@ Please note when replacing the <The Pi's IP Address> you must also remove the br
 
 Now lets give [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) another go!
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/gz1S-XOzmTs" frameborder="0"> </iframe>
+
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
