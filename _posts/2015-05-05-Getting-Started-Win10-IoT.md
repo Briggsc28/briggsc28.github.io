@@ -44,3 +44,14 @@ Currently an active PS session is required for visual studio to perform remote d
 1.    Open an Administrator Powershell and run the following commands:
 1.    Set-Item WSMan:\localhost\Client\TrustedHosts -Value <The Pi's IP Address>
 1.    remove-module psreadline -force
+1.    Enter-pssession -ComputerName <The Pi's IP Address> -Credential <The Pi's IP Address>\Administrator
+1.    Enter p@ssw0rd in the password field 
+1.    Once the shell is connected run the following command hostname if the named returned is the name of the PI than your ready to go!
+
+Please note: When replacing the <The Pi's IP Address> you must also remove the brackets.
+
+Now lets give [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) another go!
+
+
+
+Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
