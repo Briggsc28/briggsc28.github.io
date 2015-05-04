@@ -50,8 +50,6 @@ Currently an active PS session is required for visual studio to perform remote d
 
 Please note: When replacing the <The Pi's IP Address> you must also remove the brackets.
 
-Now lets give [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) another go!
-
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/gz1S-XOzmTs" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
