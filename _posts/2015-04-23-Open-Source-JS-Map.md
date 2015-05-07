@@ -42,7 +42,7 @@ After scouring the internet and came across one hidden gem,
 
 ## Did you say plugins?
 
-YES - Leaflet js supports a wide range of the third party plugins that simplifies the addition commonly requested features. For example in my case displaying the day-night cycle.
+YES - Leaflet supports a wide range of the third party plugins that simplifies the addition commonly requested features. For example in my case displaying the day-night cycle.
 
 [The wide range of plugs in, can be found here!](http://leafletjs.com/plugins.html)
 
