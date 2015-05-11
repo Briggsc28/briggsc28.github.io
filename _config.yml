@@ -28,20 +28,20 @@ kramdown:
 owner:
   name: Chris Briggs
   avatar: bio-photo-T1.png
-  bio: "A full stack developer with a passion for security & Web API. Whose wrote more Apps than most developers have had cold pizza."
+  bio: "Senior Software Developer at SSW. Passionate about IoT, Scrum, Security, windows universal apps and Xamarin."
   email: 
   disqus-shortname: 
   twitter: ChrisBriggsy
   facebook: #username
   google:
-    plus: #username
+    plus: ChrisBriggsy
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  github: ChrisBriggsy
+  stackoverflow: http://stackoverflow.com/users/3391071/user3391071
   linkedin: #username
   instagram: #username
   lastfm: #username
@@ -50,7 +50,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: UCc-mxDfsESNtXln-r4rP8bw
   soundcloud: #username
   weibo: #username
   flickr: #username
