@@ -47,10 +47,16 @@ Currently an active PS session is required for visual studio to perform remote d
 1.    remove-module psreadline -force
 1.    Enter-pssession -ComputerName <The Pi's IP Address> -Credential <The Pi's IP Address>\Administrator
 1.    Enter p@ssw0rd in the password field 
-1.    Once the shell is connected run the following command hostname if the named returned is the name of the PI than your ready to go!
+1.    Once the shell is connected run the following command: *hostname* if the named returned is the name of the PI than your ready to go!
 
 Please note: When replacing the <The Pi's IP Address> you must also remove the brackets.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/gz1S-XOzmTs" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+
+# Common Deployment Errors
+
+My Pi is not outputting video to the Display?
+
+-     If the application you're deploying has a UI, you'll need to ensure that the PI is running in headed mode by running this command: *setbootoption.exe headed* 
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
