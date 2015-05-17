@@ -1,8 +1,20 @@
-# How to Consume SignalR in Windows 10 IoT Core Insider Preview
+---
+layout: post
+title: How to Consume SignalR in Windows 10 IoT Core Insider Preview
+excerpt: "Especially in IoT, we never want to have our devices constantly polling for updates, rather we would greatly prefer to have the server push updates."
+modified: 2015-05-16
+tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, SignalR, Fody]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
+Especially in IoT, we never want to have our devices constantly polling for updates, rather we would greatly prefer to have the server push updates. 
 
 ### What is SignalR
 
-Especially in IoT, we never want to have our devices constantly polling for updates, rather we would greatly prefer to have the server push updates. 
 SignalR is a useful framework from Microsoft that enables real-time communication between client and server. By using a range of different methods. There are many reasons use SignalR over other alternatives:
 
  * Quick and easy to use
@@ -18,7 +30,7 @@ For demonstration imagine the following to conversations as an example of the tr
 * _"IoT device"_
  __"Server"__
 
-##### Constatly Polling Approach
+##### Constantly Polling Approach
 
  * _"Do you want me to take a reading?"_
  * __"No thank you"__
@@ -73,11 +85,11 @@ Go to the code behind the Main page.xmal and add the MainViewModel.
 
 ### 4. Run
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/AeBEgawk7SI" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/O08XO8KbygY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
-Please note this video has been editing to quickly demonstate the end result, your deployments may take longer. 
+Please note this video has been editing to quickly demonstrate the end result, your deployments may take longer. 
 
-### An error occured!
+### An error occurred!
 
 [If this is your first time deploying to the Raspberry Pi please read my post on 'Getting Started'](http://blog.chrisbriggsy.com/Getting-Started-Win10-IoT/)
 
@@ -89,17 +101,17 @@ As of the time of writing this post, there is a known issue with SignalR and Win
 
  * Download the Microsoft.AspNet.SignalR.Client.dll from this [link](http://1drv.ms/1d8wHqa).
 
- * Delete the following refferences Signalr.client and Client store 
+ * Delete the following references Microsoft.AspNet.SignalR.Client and Microsoft.AspNet.SignalR.Client.Store.
 
  * Create a Binaries folder in your project
 
- * Add existing file to add the Microsoft.AspNet.SignalR.Client.dll from the zip to the Binaries folder.
+ * Add the Microsoft.AspNet.SignalR.Client.dll from the zip to the Binaries folder.
 
- * Now make a reference to the one “Microsoft.AspNet.SignalR.Client.dll” in the Binaries folder
+ * Now add a reference to the _Microsoft.AspNet.SignalR.Client.dll_ in the Binaries folder
 
-Lastly if your still having issues
-
- * Update-package Newton json 
+ You many also need Json.NET to the latest release. Run the following command in the Package Manager Console:
+ 
+ * Update-package Newtonsoft.Json 
 
 ##### Fody:	'Unknown custom metadata item kind: 6'
 
@@ -107,7 +119,7 @@ As of the time of writing this post, there is a known issue with Fody version pr
 
 {% gist c0810a1585a159e5b33d %}
 
-The solution is to update Fody to the latest release. Run the following command in the Package Magner Console:
+The solution is to update Fody to the latest release. Run the following command in the Package Manager Console:
 
  * Update-package Fody 
 
