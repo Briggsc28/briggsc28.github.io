@@ -27,8 +27,8 @@ SignalR is a useful framework from Microsoft that enables real-time communicatio
 
 For demonstration imagine the following to conversations as an example of the traffic between a server and an IoT device that takes a reading on a request from the server.
 
-* _"IoT device"_
- __"Server"__
+_"IoT device"_
+__"Server"__
 
 ##### Constantly Polling Approach
 
@@ -52,24 +52,24 @@ For demonstration imagine the following to conversations as an example of the tr
 
 As demonstrated above the constantly polling approach consumes significantly more resources than the publisher-subscriber approach.
 
-### 0. Create a new universal application
+### 1. Create a new universal application
 
 In this tutorial, the Windows 10 universal application I create will be called 'SignalRPiExample'.
 
-### 1. Add the following nuget packages 
+### 2. Add the following nuget packages 
 
 Run the following commands in the Package Manager Console: 
 
  * Install-Package Microsoft.AspNet.SignalR.Client
  * Install-Package PropertyChanged.Fody
 
-### 1. Update mainpage.xaml 
+### 3. Update mainpage.xaml 
 
 First we will add a simple TextBlock with a binding to the page to display the messages from SignalR :
 
-{% gist dcd2d395c12fe83f66dd %}
+{% gist 4a44014f7fc425a194d8 %}
 
-### 2. Create the viewmodel for the MainPage
+### 4. Create the viewmodel for the MainPage
 
 To have our bindings to update automatically, we'll have to implement INotifyPropertyChanged into our Universal application. 
 
@@ -77,13 +77,13 @@ This process can be time-consuming and commonly lead to errors due to small over
 
 {% gist c94dee8f716f86cb5a38 %}
 
-### 3. Wiring it all up 
+### 5. Wiring it all up 
 
 Go to the code behind the Main page.xmal and add the MainViewModel.
 
 {% gist 52fe19481f284f96e268 %}
 
-### 4. Run
+### 6. Run
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/O08XO8KbygY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
