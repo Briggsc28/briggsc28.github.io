@@ -17,8 +17,6 @@ Recently at work I made the switch to Visual Studio 2015 and the new web essenti
 
 This was due to the removal of automatic compiling of .LESS to CSS in Web Essentials for Visual Studio 2015 and confusion about Grunt and Gulp.
 
-Do you like saving yourself time and frustration...well then read on!
-
 ## Grunt VS Gulp
 
 They both are task runners, which means they are both tools that can be used to add automation to a project. By having them perform repetitive tasks, such as compilation, linting & minification. Technically Gulp and Grunt achieve the same goal but
@@ -39,6 +37,8 @@ Our goal is to create a simple task that will recurse through our content direct
 
 * Create a new package.JSON file in the root of the project
 
+This JSON file is used by NPM to track dependencies. By adding a name of a package and version to this file, NPM will automatically locate, download and install the required package. 
+
 ### 2. Add the required packages
 
 * Copy and paste the following into the new file
@@ -48,6 +48,8 @@ Our goal is to create a simple task that will recurse through our content direct
 ### 3. Creating the gulpfile.js
 
 * Create a new gulpfile.js file in the root of the project
+
+In this file, all of the Gulp magic happens. It contains all of the Glup tasks for the project. To run a task outlined in this file open the Task Runner Explorer. 
 
 ### 4. Creating the Gulp task
 
