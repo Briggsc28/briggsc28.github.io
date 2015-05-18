@@ -15,9 +15,7 @@ Recently at work I made the switch to Visual Studio 2015 and the new web essenti
 
 >It felt like I'd burnt a lot of time on what should be a simple task!
 
-This was due to: 
-* Web Essentials for Visual Studio 2015 removed the automatic compiling of .LESS to CSS
-* Confusion between Grunt and Gulp 
+This was due to the removal of automatic compiling of .LESS to CSS in Web Essentials for Visual Studio 2015 and confusion about Grunt and Gulp.
 
 Do you like saving yourself time and frustration...well then read on!
 
