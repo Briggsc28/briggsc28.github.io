@@ -23,9 +23,7 @@ Do you like saving yourself time and frustration...well then read on!
 
 ## Grunt VS Gulp
 
-They both are task runners, which means they are both tools that can be used to add automation to a project. By having them perform repetitive tasks, such as compilation, linting & minification.
-
-Technically Gulp and Grunt achieve the same goal but:
+They both are task runners, which means they are both tools that can be used to add automation to a project. By having them perform repetitive tasks, such as compilation, linting & minification. Technically Gulp and Grunt achieve the same goal but
 
 * Gulp has a huge speed advantage over Grunt
 * Gulp focuses on code whereas Grunt focuses on configuration
