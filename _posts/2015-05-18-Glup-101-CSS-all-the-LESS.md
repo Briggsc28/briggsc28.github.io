@@ -21,7 +21,7 @@ This was due to the removal of automatic compiling of .LESS to CSS in Web Essent
 
 In Visual Studio 2013 (and prior versions)we used build events. In 2013 the IDE would compile LESS to CSS and use the inbuilt tools, to handle our Bundling and Minification. Grunt was released by Ben Alman and in 2013 Gulp was released and most non-Microsoft web developers started using either Grunt or Gulp.
 
-In Visual Studio 2015 they have included NPM and now can do such tasks with Grunt or Gulp.
+>In Visual Studio 2015 they have included NPM and now can do such tasks with Grunt or Gulp.
 
 They both are task runners, which means they are both tools that can be used to add automation to a project. By having them perform repetitive tasks, such as compilation, linting & minification. Technically Gulp and Grunt achieve the same goal but there are 3 reasons you should choose Gulp:
 
