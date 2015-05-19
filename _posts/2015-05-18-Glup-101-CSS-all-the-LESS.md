@@ -19,7 +19,7 @@ This was due to the removal of automatic compiling of .LESS to CSS in Web Essent
 
 ## Decision: Grunt VS Gulp 
 
-In Visual Studio 2013 (and prior versions)we used build events. In 2013 the IDE would compile LESS to CSS and use the inbuilt tools, to handle our Bundling and Minification. Grunt was released by Ben Alman and in 2013 Gulp was released and most non-Microsoft web developers started using either Grunt or Gulp.
+In Visual Studio 2013 (and prior versions) we used build events. In 2013 the IDE would compile LESS to CSS and use the inbuilt tools, to handle our bundling and minification. Grunt was released by Ben Alman and in 2013 Gulp was released and most non-Microsoft web developers started using either Grunt or Gulp.
 
 >In Visual Studio 2015 they have included NPM and now can do such tasks with Grunt or Gulp.
 
@@ -47,7 +47,7 @@ This JSON file is used by NPM to track dependencies. By adding a name of a packa
 
 * Create a new gulpfile.js file in the root of the project
 
-In this file, all of the Gulp magic happens. It contains all of the Glup tasks for the project.
+In this file, all of the Gulp magic happens. It contains all of the Gulp tasks for the project.
 
 * Copy and paste the following into the new file
 
@@ -79,7 +79,7 @@ As can be seen in the image, to set when a task is run.
 * Right-click the task and select when you want it to run in the bindings menu. 
 * Choose "Before Build".
 
-That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup. For more information, you should check out this great post on [bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).
+That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Gulp. For more information, you should check out this great post on [bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).
 
 <BR>
 
