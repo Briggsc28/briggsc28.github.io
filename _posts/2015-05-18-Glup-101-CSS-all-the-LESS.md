@@ -17,7 +17,7 @@ Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to 
 
 This was due to the removal of automatic compiling of .LESS to CSS in Web Essentials for Visual Studio 2015 and confusion about Grunt and Gulp.
 
-## Decision 1: Grunt VS Gulp
+## Decision: Grunt VS Gulp
 
 In Visual Studio 2013 (and prior versions)we used build events. In 2013 the IDE would compile LESS to CSS and use the inbuilt tools, to handle our Bundling and Minification. Grunt was released by Ben Alman and in 2013 Gulp was released and most non-Microsoft web developers started using either Grunt or Gulp.
 
