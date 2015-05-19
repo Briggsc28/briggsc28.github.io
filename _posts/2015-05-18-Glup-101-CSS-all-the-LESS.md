@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Gulp 101 - Getting CSS Up and Running in Visual Studio 2015
 excerpt: "How to use Gulp to compile all LESS files to CSS automatically."
 modified: 2015-04-20
 tags: [Visual Studio 2015, LESS, CSS, Gulp, Grunt ]
@@ -32,6 +33,7 @@ They both are task runners, which means they are both tools that can be used to 
 
 ## Example: Using Gulp
 
+Let's create a simple task that will recurse through our content directory (eg. /content) and compile all the .LESS to .CSS
 
 ### 1. Add the package (package.json)
 
@@ -64,12 +66,14 @@ A quick rundown of how this task works:
 
 1.	First do a quick test. To run a task outlined in this file open the Task Runner Explorer.
 1.	Right click on Gulpfile.js and choose Task Runner Explorer.
+1.	Right click on 'less' and click 'Run'
 1.	Look in wwwroot and check the .css files are there
 
 ### 4. Tell the Gulp task to run on every Build
 
 ![Run the new Gulp task on build](/images/TaskRunnerExplorer-compressor.png)
 
+As can be seen in the image, to set when a task is run. Open the Task Runner Explorer window. Right-click the task and select when you want it to run in the bindings menu. Choose "Before Build".
 
 That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup.
 
