@@ -79,7 +79,7 @@ As can be seen in the image, to set when a task is run.
 * Right-click the task and select when you want it to run in the bindings menu. 
 * Choose "Before Build".
 
-That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup. For more information, you should check out this great post on [Bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).
+That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup. For more information, you should check out this great post on [bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).
 
 <BR>
 
