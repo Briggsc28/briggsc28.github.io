@@ -2,7 +2,7 @@
 layout: post
 title: Gulp 101 - Getting LESS Up and Running in Visual Studio 2015
 excerpt: "How to use Gulp to compile all LESS files to CSS automatically."
-modified: 2015-05-19
+modified: 2015-05-20
 tags: [Visual Studio 2015, LESS, CSS, Gulp, Grunt ]
 comments: true
 image:
@@ -80,5 +80,6 @@ As can be seen in the image, to set when a task is run.
 * Choose "Before Build".
 
 That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Gulp. For more information, you should check out this great post on [bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).  
+
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
