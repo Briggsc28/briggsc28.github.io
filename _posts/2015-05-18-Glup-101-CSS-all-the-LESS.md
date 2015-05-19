@@ -2,7 +2,7 @@
 layout: post
 title: Gulp 101 - Getting CSS Up and Running in Visual Studio 2015
 excerpt: "How to use Gulp to compile all LESS files to CSS automatically."
-modified: 2015-04-20
+modified: 2015-05-19
 tags: [Visual Studio 2015, LESS, CSS, Gulp, Grunt ]
 comments: true
 image:
@@ -17,7 +17,7 @@ Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to 
 
 This was due to the removal of automatic compiling of .LESS to CSS in Web Essentials for Visual Studio 2015 and confusion about Grunt and Gulp.
 
-## Decision: Grunt VS Gulp
+## Decision: Grunt VS Gulp 
 
 In Visual Studio 2013 (and prior versions)we used build events. In 2013 the IDE would compile LESS to CSS and use the inbuilt tools, to handle our Bundling and Minification. Grunt was released by Ben Alman and in 2013 Gulp was released and most non-Microsoft web developers started using either Grunt or Gulp.
 
@@ -80,7 +80,5 @@ As can be seen in the image, to set when a task is run.
 * Choose "Before Build".
 
 That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup.
-
-
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
