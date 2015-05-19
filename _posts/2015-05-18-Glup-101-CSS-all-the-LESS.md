@@ -81,4 +81,6 @@ As can be seen in the image, to set when a task is run.
 
 That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup.
 
+<BR>
+
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
