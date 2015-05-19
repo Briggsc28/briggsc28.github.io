@@ -73,7 +73,11 @@ A quick rundown of how this task works:
 
 ![Run the new Gulp task on build](/images/TaskRunnerExplorer-compressor.png)
 
-As can be seen in the image, to set when a task is run. Open the Task Runner Explorer window. Right-click the task and select when you want it to run in the bindings menu. Choose "Before Build".
+As can be seen in the image, to set when a task is run. 
+
+* Open the Task Runner Explorer window. 
+* Right-click the task and select when you want it to run in the bindings menu. 
+* Choose "Before Build".
 
 That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Glup.
 
