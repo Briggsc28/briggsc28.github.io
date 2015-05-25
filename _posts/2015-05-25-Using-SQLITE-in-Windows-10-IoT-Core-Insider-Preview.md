@@ -24,7 +24,7 @@ SQLite Database Engine is a process library that provides a serverless (self-con
 * Has no dependencies
 
 ## 1.Create a new universal application
-In this tutorial, the Windows 10 universal application I create will be called _‘SQLitePiExample’_ .
+In this tutorial, the Windows 10 universal application I create will be called _SQLitePiExample_ .
 
 ## 2.Install the SQLite Visual Studio extension for Visual Studio 2015
 Download and install the pre-release version of SQLite Visual Studio extension for Visual Studio 2015 RC which can be found [here](http://sqlite.org/download.html).
