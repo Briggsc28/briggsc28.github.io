@@ -2,7 +2,7 @@
 layout: post
 title: Gulp 101 - Getting LESS Up and Running in Visual Studio 2015
 excerpt: "How to use Gulp to compile all LESS files to CSS automatically."
-modified: 2015-05-20
+modified: 2015-05-22
 tags: [Visual Studio 2015, LESS, CSS, Gulp, Grunt ]
 comments: true
 image:
@@ -10,6 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+*** Updated on 22/05/2015 :*** * Thank [Adam Cogan](https://twitter.com/adamcogan) for giving me some feedback on the blog, which helped improve the post. *
 
 Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to Visual Studio 2015 and the new web essentials on an existing project and
 
