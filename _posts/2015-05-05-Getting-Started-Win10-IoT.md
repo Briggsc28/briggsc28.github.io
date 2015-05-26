@@ -10,6 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+**Updated on 23/05/2015 :** *As of the Windows 10 Pro Insider Preview Build 10122, the bug that was the source of the difficulties and frustration has been fixed!*
 
 So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 and [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) isn't working? 
 
@@ -19,7 +20,15 @@ So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 
 **Stay calm and read on!**
 
 # Step 1: Enable developer mode 
-As of the current build of Window 10 (10074), it is difficult and confusing to enable developer mode, as can be seen in the video below: 
+
+1. Search ___Settings___ in the desktop search
+2. Click on ___UPDATE & SECURITY___
+3. Than selcect ___For developers___ and than select ___Developer mode___
+
+![For developers](/images/2015-05-26_17-31-15-compressor.png)
+
+### Running a build earlier that 10122?
+In earlier preview builds of Window 10 such as 10074, it was difficult and confusing to enable developer mode, as can be seen in the video below: 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/hZmBd_EyTP8" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
