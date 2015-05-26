@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-**Updated on 26/05/2015 :** *As of the Windows 10 Pro Insider Preview Build 10122, the bug that was the source of the difficulties and frustration has been fixed!* <br />So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 and [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) isn't working? 
+**Updated on 26/05/2015 :** *As of the Windows 10 Pro Insider Preview Build 10122, the bug that was the source of the difficulties and frustration has been fixed!* <br /><br />So you've set up your Windows 10 IoT Core Insider Preview on the raspberry Pi 2 and [Hello World](http://ms-iot.github.io/content/win10/samples/HelloWorld.htm) isn't working? 
 
 *  Getting many strange errors?
 *  Currently scared, confused and wondering if your Pi is secretly Skynet or HAL?
