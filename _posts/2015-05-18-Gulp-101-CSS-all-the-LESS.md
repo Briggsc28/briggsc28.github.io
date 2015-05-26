@@ -10,9 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-**Updated on 22/05/2015 :** *Thank [Adam Cogan](adamcogan.com) for giving me some feedback on the blog, which helped improve the post.*
-
-Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to Visual Studio 2015 and the new web essentials on an existing project and
+**Updated on 22/05/2015 :** *Thank [Adam Cogan](adamcogan.com) for giving me some feedback on the blog, which helped improve the post.* <br /><br />Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to Visual Studio 2015 and the new web essentials on an existing project and
 
 >#It felt like I'd burnt a lot of time on what should be a simple task!
 
@@ -80,6 +78,4 @@ As can be seen in the image, to set when a task is run.
 * Right-click the task and select when you want it to run in the bindings menu. 
 * Choose "Before Build".
 
-That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Gulp. For more information, you should check out this great post on [bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).  
-
-Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
+That was not so easy, but the pain will be worth it long term because now you can take full advantage of being able to automate trivial tasks with Gulp. For more information, you should check out this great post on [bundling and minification by Jeffrey Fritz](http://www.jeffreyfritz.com/2015/05/where-did-my-asp-net-bundles-go-in-asp-net-5/).  <br /><br />Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
