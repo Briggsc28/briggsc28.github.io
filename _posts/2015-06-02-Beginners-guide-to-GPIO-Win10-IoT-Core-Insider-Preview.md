@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginners guide to GPIO and in Windows 10 IoT Core Insider Preview
+title: Beginners guide to GPIO in Windows 10 IoT Core Insider Preview
 excerpt: "Windows 10 IoT is about more than just code in this post we discuss explain both sides of the equation"
 modified: 2015-06-02
 tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, GPIO, Circuit]
