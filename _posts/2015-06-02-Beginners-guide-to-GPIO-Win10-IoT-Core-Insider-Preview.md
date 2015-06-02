@@ -42,8 +42,8 @@ Following the diagram below:
 
 ![Wireing diagram](/images/PushButton_bb-compressor.png)
 
-| Colour Wire| Pi GPIO (Pin#)|
-| ------------- |:-------------:| 
+|Wire Colour|Pi GPIO (Pin#)|
+|:-------------:|:-------------:| 
 |Red| 5V (02) | 
 |Black| Ground (39)|
 |Blue| 3V3 (01)|  
