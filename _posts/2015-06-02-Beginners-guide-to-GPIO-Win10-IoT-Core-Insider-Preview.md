@@ -38,7 +38,7 @@ To complete the tutorial, outline in this post, you will need the following comp
 
 # Wiring it all up
 
-Following the diagram below:
+Following the diagram below:<br />
 
 ![Wireing diagram](/images/PushButton_bb-compressor.png)
 
@@ -56,19 +56,11 @@ To explain the Circuit above we will break it into two questions:
 
 ### Why doesn’t the LED turn on even though it’s directly connected to the V3.3?
 
-For an LED to light up, there must be a flow of current and sufficient voltage. An LED is a type of diode that only allows current to flow in one direction, from the positive terminal (longer leg) to negative terminal (flatter side). Ideally there is no voltage drop over a diode. However, the run of the mill LED needs to consume 0.7V to light up and allow the current to continue flow through.
-
-But on one side we have GPIO27 that we initialized to high (3.3v) on the other side we have the 3v3 pin (3.3v). If the current flows from 3v3 pin through the resistor and diode, it will be less than 2.6v when it reaches GPIO27. (3.3-0.7-Resistor Voltage Drop) However, the voltage at GPIO27 is 3.3v. The problem that occurs is that there are two possible values for the voltage at this point depending on which path the current flows. This causes a broken circuit. In an open or broken circuit, there is still voltage at the pins but no current can follow through the rest of the circuit. Since there is no current flowing through the circuit and in turn no power, the LED can not light up.
-
-We can solve this issue by setting the output of the GPIO27 pin to low (0V). This effectively resolves the broken circuit since the negative terminal of the LED is now less than the required 2.6v. The resistor will drop the remaining 2.6v so that the voltage at GPIO27 will remain as 0v and current will flow through the circuit. A demonstration of the flow can be seen below:
+For an LED to light up, there must be a flow of current and sufficient voltage. An LED is a type of diode that only allows current to flow in one direction, from the positive terminal (longer leg) to negative terminal (flatter side). Ideally there is no voltage drop over a diode. However, the run of the mill LED needs to consume 0.7V to light up and allow the current to continue flow through.<br /><br />But on one side we have GPIO27 that we initialized to high (3.3v) on the other side we have the 3v3 pin (3.3v). If the current flows from 3v3 pin through the resistor and diode, it will be less than 2.6v when it reaches GPIO27. (3.3-0.7-Resistor Voltage Drop) However, the voltage at GPIO27 is 3.3v. The problem that occurs is that there are two possible values for the voltage at this point depending on which path the current flows. This causes a broken circuit. In an open or broken circuit, there is still voltage at the pins but no current can follow through the rest of the circuit. Since there is no current flowing through the circuit and in turn no power, the LED can not light up.<br /><br />We can solve this issue by setting the output of the GPIO27 pin to low (0V). This effectively resolves the broken circuit since the negative terminal of the LED is now less than the required 2.6v. The resistor will drop the remaining 2.6v so that the voltage at GPIO27 will remain as 0v and current will flow through the circuit. A demonstration of the flow can be seen below:
 
 ### What does the button do?
 
-The GPIO05 pin was initialized as an input and observes the voltage at the point it's connected to the circuit like a multimeter. The effect it has on the circuit is negligible and can, therefore, be ignored.
-
-The circuit has the 5v pin attached to a resistor and connected to a button that is connected to ground. While the button is open, the circuit is broken. Once again no current can flow. However, the voltage at the pin remains. If no current is passing through the resistor, it will not affect the voltage as per ohm’s law. This means the voltage at this side of the button is read as 5v by GPIO05.
-
-When the button is pressed, the circuit completes. The current follows through the resistor to ground. The voltage will drop over the resistor by 5v as the ground has a voltage of 0v.The  GPIO05 would read the “pull down” from 5v to 0v. 
+The GPIO05 pin was initialized as an input and observes the voltage at the point it's connected to the circuit like a multimeter. The effect it has on the circuit is negligible and can, therefore, be ignored.<br /><br />The circuit has the 5v pin attached to a resistor and connected to a button that is connected to ground. While the button is open, the circuit is broken. Once again no current can flow. However, the voltage at the pin remains. If no current is passing through the resistor, it will not affect the voltage as per ohm’s law. This means the voltage at this side of the button is read as 5v by GPIO05.<br /><br />When the button is pressed, the circuit completes. The current follows through the resistor to ground. The voltage will drop over the resistor by 5v as the ground has a voltage of 0v.The  GPIO05 would read the “pull down” from 5v to 0v. <br /><br />
 
 # Writing the code
 
@@ -110,11 +102,7 @@ In the code above we perform the following steps:
 
 {% gist d7ca4826e0919135cd16 %}
 
-Due to how we connect the LED to the 3.3 Volts power supply. We need to set the pin to low to have the LED light up.  Therefore, we will use the GpioPin.Write to toggle between high and low, when the button is pressed. 
-
-Special thanks to my younger brother [Anthony](https://www.linkedin.com/in/briggsanthony), for helping me to understand the hardware aspect of this blog post. 
-
-Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
+Due to how we connect the LED to the 3.3 Volts power supply. We need to set the pin to low to have the LED light up.  Therefore, we will use the GpioPin.Write to toggle between high and low, when the button is pressed.<br /><br />Special thanks to my younger brother [Anthony](https://www.linkedin.com/in/briggsanthony), for helping me to understand the hardware aspect of this blog post.<br /><br />Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
 
 
 
