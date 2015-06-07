@@ -2,7 +2,7 @@
 layout: post
 title: Beginners guide to GPIO in Windows 10 IoT Core Insider Preview
 excerpt: "Windows 10 IoT is about more than just code in this post we discuss explain both sides of the equation"
-modified: 2015-06-02
+modified: 2015-06-07
 tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, GPIO, Circuit]
 comments: true
 image:
@@ -10,8 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-
-In this tutorial, we will wire up and write the code required to create a universal application that will, turn an LED on and off each time the button is pressed. It is important to understand both the hardware and software.
+**Updated on 06/07/2015 :** *Thank you [@WaterContext](https://twitter.com/WaterContext) for pointing an error in the Wire Colour to GPIO Pin table.*<br /><br />In this tutorial, we will wire up and write the code required to create a universal application that will, turn an LED on and off each time the button is pressed. It is important to understand both the hardware and software.
  
 # What is GPIO
 
@@ -47,8 +46,8 @@ Following the diagram below:<br />
 |Red| 5V (02) | 
 |Black| Ground (39)|
 |Blue| 3V3 (01)|  
-|Green| GPIO05 (29)|
-|Yellow |GPIO27 (13)|  
+|Green| GPIO27 (13)|
+|Yellow | GPIO05 (29)|  
 
 # Explaining the Circuit
 
