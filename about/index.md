@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Me
+tags: [about]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -9,8 +9,6 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-
-## About Me
 
 Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
 
@@ -22,8 +20,8 @@ Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate
 ## Chris's client projects include:
 
 * TimePro Web API: Wrote the Web API layer which was used for a new Angular application to integrate with the legacy TimePro code base. As a part of this project, he integrated an existing SQL Server Reporting Services server with Angular via Web API.
-  * Technologies used: Web API & SQL Server Reporting Services (SSRS)
+  * Technologies used: Web API & SQL Server Reporting Services (SSRS)<BR>
 * Sugar Learning: Worked on a next generation induction tool, which streamlines the process of employee induction.
-  * Technologies used: MVC5 & Azure
+  * Technologies used: MVC5 & Azure<BR>
 * Security Intrusion response: Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
   * Technologies used: A wide range of different penetration testing tools including MetaSploit.
