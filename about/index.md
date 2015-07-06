@@ -19,9 +19,9 @@ Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate
 
 ## Chris's client projects include:
 
-* TimePro Web API: Wrote the Web API layer which was used for a new Angular application to integrate with the legacy TimePro code base. As a part of this project, he integrated an existing SQL Server Reporting Services server with Angular via Web API.
+* **TimePro Web API:** Wrote the Web API layer which was used for a new Angular application to integrate with the legacy TimePro code base. As a part of this project, he integrated an existing SQL Server Reporting Services server with Angular via Web API.
   * Technologies used: Web API & SQL Server Reporting Services (SSRS)<BR>
-* Sugar Learning: Worked on a next generation induction tool, which streamlines the process of employee induction.
+* **SugarLearning:** Worked on a next generation induction tool, which streamlines the process of employee induction.
   * Technologies used: MVC5 & Azure<BR>
-* Security Intrusion response: Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
+* **Security Intrusion response:** Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
   * Technologies used: A wide range of different penetration testing tools including MetaSploit.
