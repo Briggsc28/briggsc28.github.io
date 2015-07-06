@@ -21,7 +21,7 @@ GPIO stands for:
 * Input 
 * Output
 
-GPIO pins can either set or reads a voltage, this allows the controller (in this case the raspberry pi) to communicate with a wide range of hardware electronics using code. Each of the GPIO pins has a pre-defined use that can be read the following link.
+GPIO pins can either set or reads a voltage, this allows the controller (in this case the raspberry pi) to communicate with a wide range of hardware electronics using code. Each of the GPIO pins has a pre-defined use that can be read the following [link](http://pi.gadgetoid.com/pinout).
 
 # You'll need
 

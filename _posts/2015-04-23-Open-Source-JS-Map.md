@@ -2,7 +2,7 @@
 layout: post
 title: Have you heard about Leaflet?
 excerpt: "Leaflet, plug and play JavaScript mobile-friendly map, which just works out of the box."
-modified: 2015-04-30
+modified: 2015-06-06
 tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services ]
 comments: true
 image:
@@ -10,6 +10,8 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
+
+**Updated on 06/06/2015 :** *[SSW LinkAuditor](https://sswlinkauditor.com/) uncovered a broken link in this post.* <br /><br />
 
 Recently I was set the challenge of creating an interactive map:  
 
@@ -38,7 +40,7 @@ After scouring the internet and came across one hidden gem,
 *  Wide range of browser supper
 *  Pins use standard HTML 
 
- [The rest of the features can be seen here!](http://leafletjs.com/features.html).
+ [The rest of the features can be seen here!](http://leafletjs.com/#features).
 
 ## Did you say plugins?
 
