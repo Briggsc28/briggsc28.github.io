@@ -10,16 +10,20 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+## About Me
 
-## Minimal Mistakes is all about:
+Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Worked with the Brisbane academic development community as a Microsoft Student Partner.
+* Background in security. Represented Queensland University of Technology (QUT) in the national Cyber Security Challenge Australia (CySCA) competitions for three years.
+* Chris worked on a software devolvement project that was demonstrated to a number of large companies in Jarkata, under the new Colombo plan
+* Three month internship with the Department of Defence, working with the Vulnerability Research team on a successful research project culminating in a presentation to Defence Executives.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+## Chris's client projects include:
+
+* TimePro Web API: Wrote the Web API layer which was used for a new Angular application to integrate with the legacy TimePro code base. As a part of this project, he integrated an existing SQL Server Reporting Services server with Angular via Web API.
+  * Technologies used: Web API & SQL Server Reporting Services (SSRS)
+* Sugar Learning: Worked on a next generation induction tool, which streamlines the process of employee induction.
+  * Technologies used: MVC5 & Azure
+* Security Intrusion response: Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
+  * Technologies used: A wide range of different penetration testing tools including MetaSploit.
