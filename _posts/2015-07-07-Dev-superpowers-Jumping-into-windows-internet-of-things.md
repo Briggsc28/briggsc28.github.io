@@ -17,7 +17,7 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 
 >[The source code from this presentation is available on my github](https://github.com/ChrisBriggsy)
 
-##Upcoming presentations?
+##Upcoming presentations!
 
 * Brisbane .Net User Group
   * Upcoming : 21/07/2015 - Brisbane, Australia
@@ -25,7 +25,7 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I&#39;m presenting &#39;Jumping into Windows <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> development by using the Universal Windows Platform&#39; <a href="https://twitter.com/bnedotnet">@bnedotnet</a> User Group! <a href="http://t.co/i6f56v1YY6">http://t.co/i6f56v1YY6</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/618223582427000832">July 7, 2015</a></blockquote>
 
 * DDD Melbourne
-  * Upcoming : 21/07/2015 - Brisbane, Australia
+  * Upcoming : 08/08/2015 - Melbourne, Australia
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Really excited to be presenting ‘Jumping into Windows Internet of Things development by using the Universal Windows Platform’ at <a href="https://twitter.com/DDDMelb">@DDDmelb</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/611339249292414976">June 18, 2015</a></blockquote>
 
