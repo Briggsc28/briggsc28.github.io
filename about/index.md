@@ -14,7 +14,7 @@ Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate
 
 * Worked with the Brisbane academic development community as a Microsoft Student Partner.
 * Background in security. Represented Queensland University of Technology (QUT) in the national Cyber Security Challenge Australia (CySCA) competitions for three years.
-* Chris worked on a software development project that was demonstrated to a number of large companies in Jarkata, under the new Colombo plan
+* Chris worked on a software development project that was demonstrated to a number of large companies in Jakarta, under the new Colombo plan
 * Three month internship with the Department of Defence, working with the Vulnerability Research team on a successful research project culminating in a presentation to Defence Executives.
 
 ## Presentations:
