@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jumping into Windows Internet of Things development by using the Universal APP Platform
+title: Jumping into Windows Internet of Things development by using the Universal Windows Platform
 excerpt: "Take a simple “hello world” and turn it into a useful #IoT citizen!"
 modified: 2015-07-07
 tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services ]
