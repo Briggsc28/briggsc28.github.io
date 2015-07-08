@@ -20,8 +20,14 @@ Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate
 ## Presentations:
 
 * **Jumping into Windows Internet of Things development by using the Universal Windows Platform:** In this presentation, I build a simple Universal app, deploy it to Raspberry Pi 2, then expand upon the application to read input from sensors and finally establish communication with Azure.  [Read more...](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)
-  * Technologies used: Azure, Windows IoT & Universal Windows Platform <BR>
-* **More upcoming:** Have a suggestion for a future presentation? Feel free to tweet me [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
+  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
+
+  
+## Interviews:
+
+* **What’s on the horizon of the Internet of Things (IoT) with Stuart Corner:** In this interview I speak to the creator of [Internet of Things Australia](http://www.iotaustralia.org.au/), a website about all things IoT. Stuart shares his enthusiasm for the potential of IoT in the everyday world and what developers can look forward to with IoT development. [Read more...](http://blog.chrisbriggsy.com/whats-on-the-horizon-of-IoT/)
+  * Topics discussed include: Fog / Edge computing, Future of Networks & the Quantified Self <BR>
+
   
 ## Projects include:
 
@@ -31,3 +37,5 @@ Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate
   * Technologies used: MVC5 & Azure<BR>
 * **Security Intrusion response:** Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
   * Technologies used: A wide range of different penetration testing tools including MetaSploit.
+  
+> More upcoming! Have a suggestion for a future presentation? Feel free to tweet me [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).

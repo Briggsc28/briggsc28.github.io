@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Jumping into Windows Internet of Things development by using the Universal Windows Platform
-excerpt: "Take a simple “hello world” and turn it into a useful #IoT citizen!"
+excerpt: "Take a simple “hello world” and turn it into a useful IoT citizen!"
 modified: 2015-07-07
-tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services ]
+tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, GPIO, Dev SuperPowers, Azure, Web API]
 comments: true
 image:
   feature: sample-image-5.jpg
