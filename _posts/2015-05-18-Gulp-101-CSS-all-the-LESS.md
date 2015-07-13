@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-**Updated on 06/06/2015 :** *[<u>SSW LinkAuditor</u>](https://sswlinkauditor.com/) uncovered a broken link in this post.* <br /><br />**Updated on 22/05/2015 :** *Thank [<u>Adam Cogan</u>](http://adamcogan.com) for giving me some feedback on the blog, which helped improve the post.* <br /><br />Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to Visual Studio 2015 and the new web essentials on an existing project and
+**Updated on 06/06/2015 :** *[<u>SSW LinkAuditor</u>](https://sswlinkauditor.com/) uncovered a broken link in this post.* <br /><br />**Updated on 22/05/2015 :** *Thank you [<u>Adam Cogan</u>](http://adamcogan.com), for giving me some feedback on the blog, which helped improve the post.* <br /><br />Recently at [work](http://www.ssw.com.au/ssw/default.aspx) I made the switch to Visual Studio 2015 and the new web essentials on an existing project and
 
 >#It felt like I'd burnt a lot of time on what should be a simple task!
 
