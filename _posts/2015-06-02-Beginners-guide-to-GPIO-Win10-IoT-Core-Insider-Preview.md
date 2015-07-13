@@ -10,7 +10,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-**Updated on 06/07/2015 :** *Thank you [*@WaterContext*](https://twitter.com/WaterContext) for pointing an error in the Wire Colour to GPIO Pin table.*<br /><br />In this tutorial, we will wire up and write the code required to create a universal application that will, turn an LED on and off each time the button is pressed. It is important to understand both the hardware and software.
+**Updated on 06/07/2015 :** *Thank you [<u>@WaterContext</u>](https://twitter.com/WaterContext) for pointing an error in the Wire Colour to GPIO Pin table.*<br /><br />In this tutorial, we will wire up and write the code required to create a universal application that will, turn an LED on and off each time the button is pressed. It is important to understand both the hardware and software.
  
 # What is GPIO
 
