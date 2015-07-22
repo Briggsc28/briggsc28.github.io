@@ -2,8 +2,8 @@
 layout: post
 title: Jumping into Windows Internet of Things development by using the Universal Windows Platform
 excerpt: "Take a simple “hello world” and turn it into a useful IoT citizen!"
-modified: 2015-07-07
-tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, GPIO, Dev SuperPowers, Azure, Web API]
+modified: 2015-07-22
+tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, GPIO, Dev SuperPowers, DDD Melbourne, Canberra .Net User Group, Sydney .Net User Group, Brisbane .Net User Group, Azure, Web API]
 comments: true
 image:
   feature: sample-image-5.jpg
@@ -19,20 +19,28 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 
 ##Upcoming presentations!
 
-* Brisbane .Net User Group
-  * Upcoming : 21/07/2015 - Brisbane, Australia
- 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I&#39;m presenting &#39;Jumping into Windows <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> development by using the Universal Windows Platform&#39; <a href="https://twitter.com/bnedotnet">@bnedotnet</a> User Group! <a href="http://t.co/i6f56v1YY6">http://t.co/i6f56v1YY6</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/618223582427000832">July 7, 2015</a></blockquote>
+
 
 * DDD Melbourne
   * Upcoming : 08/08/2015 - Melbourne, Australia
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Really excited to be presenting ‘Jumping into Windows Internet of Things development by using the Universal Windows Platform’ at <a href="https://twitter.com/DDDMelb">@DDDmelb</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/611339249292414976">June 18, 2015</a></blockquote>
 
- 
+* Canberra .Net User Group
+  * Upcoming : 16/11/2015 - Canberra, Australia
+ <br><br>
+ * Sydney .Net User Group
+  * Upcoming : 18/11/2015 - Sydney, Australia
+  
+  
 #### More events to be announced!
 
 ## Past presentation
+
+* Brisbane .Net User Group
+  * Pasted : 21/07/2015 - Brisbane, Australia
+ 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">I&#39;m presenting &#39;Jumping into Windows <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> development by using the Universal Windows Platform&#39; <a href="https://twitter.com/bnedotnet">@bnedotnet</a> User Group! <a href="http://t.co/i6f56v1YY6">http://t.co/i6f56v1YY6</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/618223582427000832">July 7, 2015</a></blockquote>
 
 * Dev Superpowers Webinar Series
   * Pasted : 25/06/2015 - [SSW TV](http://tv.ssw.com/webinar-windows-internet-of-things)
