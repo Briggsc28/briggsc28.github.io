@@ -29,7 +29,7 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 * Canberra .Net User Group
   * Upcoming : 16/11/2015 - Canberra, Australia
  <br><br>
- * Sydney .Net User Group
+* Sydney .Net User Group
   * Upcoming : 18/11/2015 - Sydney, Australia
   
   
