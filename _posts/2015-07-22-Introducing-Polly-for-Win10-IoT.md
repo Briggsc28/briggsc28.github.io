@@ -12,7 +12,7 @@ image:
 ---
 
 We face a range difficulties when taking our Windows IoT creations out of the lab and into the real world. Recently, it occurred to me that most of the code related issues, which made these deployments difficult in the past were due to transient exceptions.
-
+ 
 # What are transient exception?
 
 These are exceptions that occur due to a temporary condition. For example:
