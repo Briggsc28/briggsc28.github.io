@@ -14,6 +14,7 @@ image:
 Xamarin has been a great way to build cross platform apps. But issues such as transient exceptions crashing your app, persisting data cross platform and the stacks of boilerplate code are enough to scare away devs, old and new alike. In this session, Chris Briggs will show you how to tackle these painful problems, effortlessly by adding 3 must have libraries to your Xamarin project!
 
 In this presentation you'll learn how to use:
+
 * Polly 
 	* To make handling transient exception childs play!
 * Akavache
