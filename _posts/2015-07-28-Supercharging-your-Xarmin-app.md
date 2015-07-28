@@ -16,11 +16,11 @@ Xamarin has been a great way to build cross platform apps. But issues such as tr
 In this presentation you'll learn how to use:
 
 * Polly 
-	* To make handling transient exception childs play!
+  * To make handling transient exception childs play!
 * Akavache
-	* To simplify persisting data across Android, iOS and Windows Phone!
+  * To simplify persisting data across Android, iOS and Windows Phone!
 * Fody
-	* To reduce the amount of boilerplate code you'll write! 
+  * To reduce the amount of boilerplate code you'll write! 
 
 ##Upcoming presentations!
 
