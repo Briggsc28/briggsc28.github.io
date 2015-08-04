@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supercharging your Xarmin app! 3 must use libraries
+title: Supercharging your Xamarin app! 3 must use libraries
 excerpt: "In this upcoming presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!"
 modified: 2015-07-28
 tags: [Xamarin, Polly, Akavache, Fody]
