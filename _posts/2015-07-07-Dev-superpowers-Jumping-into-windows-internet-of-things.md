@@ -27,8 +27,8 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
   
 ## Past presentation
 
-* DDD Melbourne
-  * Upcoming : 08/08/2015 - Melbourne, Australia
+* [DDD Melbourne](http://blog.chrisbriggsy.com/DDDMelb-2015/)
+  * Pasted : 08/08/2015 - Melbourne, Australia
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Really excited to be presenting ‘Jumping into Windows Internet of Things development by using the Universal Windows Platform’ at <a href="https://twitter.com/DDDMelb">@DDDmelb</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/611339249292414976">June 18, 2015</a></blockquote>
 
