@@ -25,7 +25,7 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 * Sydney .Net User Group
   * Upcoming : 18/11/2015 - Sydney, Australia
   
-## Past presentation
+## Past presentations!
 
 * [DDD Melbourne](http://blog.chrisbriggsy.com/DDDMelb-2015/)
   * Pasted : 08/08/2015 - Melbourne, Australia
