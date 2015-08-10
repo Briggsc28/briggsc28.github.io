@@ -19,22 +19,18 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 
 ##Upcoming presentations!
 
-
-
-* DDD Melbourne
-  * Upcoming : 08/08/2015 - Melbourne, Australia
-
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Really excited to be presenting ‘Jumping into Windows Internet of Things development by using the Universal Windows Platform’ at <a href="https://twitter.com/DDDMelb">@DDDmelb</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/611339249292414976">June 18, 2015</a></blockquote>
-
 * Canberra .Net User Group
   * Upcoming : 16/11/2015 - Canberra, Australia
  <br><br>
 * Sydney .Net User Group
   * Upcoming : 18/11/2015 - Sydney, Australia
   
-
-
 ## Past presentation
+
+* DDD Melbourne
+  * Upcoming : 08/08/2015 - Melbourne, Australia
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Really excited to be presenting ‘Jumping into Windows Internet of Things development by using the Universal Windows Platform’ at <a href="https://twitter.com/DDDMelb">@DDDmelb</a></p>&mdash; Chris Briggs (@ChrisBriggsy) <a href="https://twitter.com/ChrisBriggsy/status/611339249292414976">June 18, 2015</a></blockquote>
 
 * Brisbane .Net User Group
   * Pasted : 21/07/2015 - Brisbane, Australia
@@ -43,7 +39,6 @@ In this presentation, Chris Briggs will teach you how to jump head first into Wi
 
 * Dev Superpowers Webinar Series
   * Pasted : 25/06/2015 - [SSW TV](http://tv.ssw.com/webinar-windows-internet-of-things)  
-  
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">It’s a bird! It’s a plane! It’s <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> using <a href="https://twitter.com/hashtag/UWP?src=hash">#UWP</a>! <a href="http://t.co/yenLtIjKoj">http://t.co/yenLtIjKoj</a> Free <a href="https://twitter.com/hashtag/DevSuperPowers?src=hash">#DevSuperPowers</a> <a href="https://twitter.com/hashtag/webinar?src=hash">#webinar</a> airs tomorrow <a href="http://t.co/r0DHumMi7V">pic.twitter.com/r0DHumMi7V</a></p>&mdash; SSW / SSW TV (@SSW_TV) <a href="https://twitter.com/SSW_TV/status/613511932327383040">June 24, 2015</a></blockquote>
   
