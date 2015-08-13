@@ -2,8 +2,8 @@
 layout: post
 title: Jumping into Windows Internet of Things development by using the Universal Windows Platform
 excerpt: "Take a simple “hello world” and turn it into a useful IoT citizen!"
-modified: 2015-07-22
-tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, GPIO, Dev SuperPowers, DDD Melbourne, Canberra .Net User Group, Sydney .Net User Group, Brisbane .Net User Group, Azure, Web API]
+modified: 2015-08-13
+tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview, Windows 10 IoT Core, raspberry Pi 2, GPIO, Dev SuperPowers, DDD Melbourne, Canberra .Net User Group, Sydney .Net User Group, Brisbane .Net User Group, Azure, Web API]
 comments: true
 image:
   feature: sample-image-5.jpg

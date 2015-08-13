@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Using SQLite in Windows 10 IoT Core Insider Preview
+title: Using SQLite in Windows 10 IoT Core
 excerpt: "Why use Sqlite? Small memory footprint, easy to use and reliable!"
-modified: 2015-05-25
-tags: [SQLite, Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2]
+modified: 2015-08-13
+tags: [SQLite, Windows 10, IoT, Pi, Windows 10 IoT Core, Windows 10 IoT Core Insider Preview, raspberry Pi 2]
 comments: true
 image:
   feature: sample-image-5.jpg

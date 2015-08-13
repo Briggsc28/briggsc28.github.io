@@ -3,7 +3,7 @@ layout: post
 title: Add robustness to your Windows IoT, by using Polly for easy transient exception handling
 excerpt: "We face a range difficulties when taking our IoT creations out of the lab. Transient exceptions have the potential to cause difficult to solve issues."
 modified: 2015-07-22
-tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, Polly, transient exceptions, transient faults]
+tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider, Preview Windows 10 IoT Core,raspberry Pi 2, Polly, transient exceptions, transient faults]
 comments: true
 image:
   feature: sample-image-5.jpg

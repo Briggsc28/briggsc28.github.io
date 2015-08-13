@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How to Consume SignalR in Windows 10 IoT Core Insider Preview
+title: How to Consume SignalR in Windows 10 IoT Core
 excerpt: "Especially in IoT, we never want to have our devices constantly polling for updates, rather we would greatly prefer to have the server push updates."
-modified: 2015-05-16
-tags: [Windows 10, IoT, Pi, Windows 10 IoT Core Insider Preview,raspberry Pi 2, SignalR, Fody]
+modified: 2015-08-13
+tags: [Windows 10, IoT, Pi, Windows 10 IoT Core,  Windows 10 IoT Core Insider Preview,raspberry Pi 2, SignalR, Fody]
 comments: true
 image:
   feature: sample-image-5.jpg
