@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get started use WiFi on your Windows 10 IoT Raspberry Pi 2
+title: How to get started using WiFi on your Windows 10 IoT Raspberry Pi 2
 excerpt: "How to take advantage of the new WiFi support for the Windows 10 IoT Raspberry Pi 2"
 modified: 2015-08-10
 tags: [Windows 10, IoT, Pi, Wifi]
@@ -48,8 +48,10 @@ Using a web browser, go to HTTP://your_Pis_ip_address:8080/wifimanager.htm and l
 
 ## Step 3 - Configure the WiFi connection
 
-Under Available networks, select the network you would like to connect to and supply the required credentials.<BR><BR>Be sure to tick'Auto re-connect.'<BR><BR>Click Connect to initiate the connection<BR><BR>Now remove the ethernet cable, you'll see that your Pi has successfully connected to the WiFi network. 
+Under Available networks, select the network you would like to connect to and supply the required credentials.<BR><BR>Be sure to tick'Auto re-connect.'<BR><BR>Click Connect to initiate the connection.
 
 ![web-based-management](/images/2015-08-15_12-30-55-compressor.png)
+
+Now remove the ethernet cable, you'll see that your Pi has successfully connected to the WiFi network. 
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
