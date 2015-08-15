@@ -50,8 +50,4 @@ Using a web browser, go to HTTP://your_Pis_ip_address:8080/wifimanager.htm and l
 
 Under Available networks, select the network you would like to connect to and supply the required credentials.<BR><BR>Be sure to tick'Auto re-connect.'<BR><BR>Click Connect to initiate the connection.
 
-![web-based-management](/images/2015-08-15_12-30-55-compressor.png)
-
-Now remove the ethernet cable, you'll see that your Pi has successfully connected to the WiFi network. 
-
-Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
+![web-based-management](/images/2015-08-15_12-30-55-compressor.png)<br><br>Now remove the ethernet cable, you'll see that your Pi has successfully connected to the WiFi network.<br><br>Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
