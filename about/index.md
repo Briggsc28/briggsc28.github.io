@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
+Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane, he's passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
 
 * Worked with the Brisbane academic development community as a Microsoft Student Partner.
 * Background in security. Represented Queensland University of Technology (QUT) in the national Cyber Security Challenge Australia (CySCA) competitions for three years.
@@ -19,9 +19,14 @@ Chris is a Senior Software Developer at SSW, based in Brisbane. Whose passionate
 
 ## Presentations:
 
-* **Jumping into Windows Internet of Things development by using the Universal Windows Platform:** In this presentation, I build a simple Universal app, deploy it to Raspberry Pi 2, then expand upon the application to read input from sensors and finally establish communication with Azure.  [Read more...](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)
+* **Windows Internet of Things development starts to sizzle – Learn the Universal Windows Platform:** In this presentation, the attendees will learn how to develop IoT applications that target Windows 10 IoT core, by developing on the Universal Windows Platform (UWP) and how to integrate the solution with Windows Azure. [Read more...](http://blog.chrisbriggsy.com/Windows-Internet-of-Things-development-starts-to-sizzle/)
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
 
+* **Supercharging your Xamarin app! 3 must use libraries:** In this upcoming presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!  [Read more...](http://blog.chrisbriggsy.com/Supercharging-your-Xamarin-app/)
+  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
+
+* **Jumping into Windows Internet of Things development by using the Universal Windows Platform:** In this presentation, I build a simple Universal app, deploy it to Raspberry Pi 2, then expand upon the application to read input from sensors and finally establish communication with Azure.  [Read more...](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)
+  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
   
 ## Interviews:
 
