@@ -23,7 +23,7 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
 
 * **Supercharging your Xamarin app! 3 must use libraries:** In this upcoming presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!  [Read more...](http://blog.chrisbriggsy.com/Supercharging-your-Xamarin-app/)
-  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
+  * Technologies used include: Xamarin, Polly, Akavache & Fody <BR>
 
 * **Jumping into Windows Internet of Things development by using the Universal Windows Platform:** In this presentation, I build a simple Universal app, deploy it to Raspberry Pi 2, then expand upon the application to read input from sensors and finally establish communication with Azure.  [Read more...](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
