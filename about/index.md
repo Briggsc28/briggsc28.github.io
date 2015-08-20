@@ -20,13 +20,13 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
 ## Presentations:
 
 * **Windows Internet of Things development starts to sizzle – Learn the Universal Windows Platform:** In this presentation, the attendees will learn how to develop IoT applications that target Windows 10 IoT core, by developing on the Universal Windows Platform (UWP) and how to integrate the solution with Windows Azure. [Read more...](http://blog.chrisbriggsy.com/Windows-Internet-of-Things-development-starts-to-sizzle/)
-  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
+  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR><BR>
 
 * **Supercharging your Xamarin app! 3 must use libraries:** In this upcoming presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!  [Read more...](http://blog.chrisbriggsy.com/Supercharging-your-Xamarin-app/)
-  * Technologies used include: Xamarin, Polly, Akavache & Fody <BR>
+  * Technologies used include: Xamarin, Polly, Akavache & Fody <BR><BR>
 
 * **Jumping into Windows Internet of Things development by using the Universal Windows Platform:** In this presentation, I build a simple Universal app, deploy it to Raspberry Pi 2, then expand upon the application to read input from sensors and finally establish communication with Azure.  [Read more...](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)
-  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR>
+  * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR><BR>
   
 ## Interviews:
 
@@ -37,9 +37,9 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
 ## Projects include:
 
 * **TimePro Web API:** Wrote the Web API layer which was used for a new Angular application to integrate with the legacy TimePro code base. As a part of this project, he integrated an existing SQL Server Reporting Services server with Angular via Web API.
-  * Technologies used: Web API & SQL Server Reporting Services (SSRS)<BR>
+  * Technologies used: Web API & SQL Server Reporting Services (SSRS)<BR><BR>
 * **SugarLearning:** Worked on a next generation induction tool, which streamlines the process of employee induction.
-  * Technologies used: MVC5 & Azure<BR>
+  * Technologies used: MVC5 & Azure<BR><BR>
 * **Security Intrusion response:** Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
   * Technologies used: A wide range of different penetration testing tools including MetaSploit.
   
