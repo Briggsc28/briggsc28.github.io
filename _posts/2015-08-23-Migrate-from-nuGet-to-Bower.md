@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-To provide the best experience for users, it is web development best practice to employ the use a range of front-end libraries, e.g., 
+To provide the best experience for users, it is best practice to employ a range of front-end libraries, e.g., 
 
 * Angular
 * Aurelia
@@ -50,7 +50,7 @@ By using this extension, there's no need to stress when installing frontend pack
 
 {% gist 04268058101494bcb79e%}
 
-### 2. Add the gulp task (gulpfile.js)
+### 2. Add the Bower gulp task (gulpfile.js)
 
 * Create a new gulpfile.js file in the root of the project
 
