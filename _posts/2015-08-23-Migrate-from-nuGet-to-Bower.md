@@ -74,7 +74,11 @@ Note that we have defiened Bootstrap and jQuery along with the version numbers, 
 
 ### 5. Run the Bower task
 
+![Run the Bower task](/images/2015-08-24_12-55-17-compressor.png)
+
 This task will copy the libraries downloaded by Bower into our Managed folder. Then be sure to:
+
+![Click show all files](/images/2015-08-24_12-22-41-compressor.png)
 
 1. Click show all files
 2. Right click the new folders and add to solution
