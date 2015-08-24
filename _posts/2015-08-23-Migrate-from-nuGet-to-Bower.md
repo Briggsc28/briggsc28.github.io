@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gulp 101 - Move your frontend packages from nuGet to Bower in Visual Studio 2015
+title: Gulp 101 - Move your front end packages from nuGet to Bower in Visual Studio 2015
 excerpt: "How to use easily move from using nuGet to Bower using Gulp."
 modified: 2015-06-06
 tags: [Visual Studio 2015, Gulp, Bower ]
@@ -42,7 +42,7 @@ Download and install [Package Installer by Mads Kristensen](https://visualstudio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WigizERVWtc" frameborder="0" allowfullscreen></iframe>
 
-By using this extension, there's no need to stress when installing frontend packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectively. To automatically locate, download and install the required package. <br><br>For completeness, in this blog post I have included  a step by step guide to the process without using Package Installer.
+By using this extension, there's no need to stress when installing front end packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectively. To automatically locate, download and install the required package. <br><br>For completeness, in this blog post I have included  a step by step guide to the process without using Package Installer.
 
 ### 1. Add Gulp (package.json)
 
