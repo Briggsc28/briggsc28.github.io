@@ -48,7 +48,7 @@ By using this extension, there's no need to stress when installing frontend pack
 
 * Create a new package.JSON file in the root of the project
 
-{% gist 0f62c09aa19abd2f9b46%}
+{% gist 04268058101494bcb79e%}
 
 ### 2. Add the gulp task (gulpfile.js)
 
@@ -58,7 +58,7 @@ In this file, we define all of our Gulp tasks for the project.
 
 * Copy and paste the following into the new file
 
-{% gist 94cbf6b0dfcf9cda2586%}
+{% gist 40132b5c6c48204f9de8%}
 
 ### 3. Create a Managed folder within the Script directory
 
@@ -68,7 +68,7 @@ This way we can transition from nuGet to Bower safely. It is important to copy t
 
 * Create a new Bower.JSON file in the root of the project
 
-{% gist 0f62c09aa19abd2f9b46%}
+{% gist 3b2c2bcffe6a6d8c5d6e%}
 
 Note that we have defiened Bootstrap and jQuery along with the version numbers, we wish for Bower to fecth
 
@@ -79,7 +79,11 @@ This task will copy the libraries downloaded by Bower into our Managed folder. T
 1. Click show all files
 2. Right click the new folders and add to solution
 
-### 5. Change references 
+### 6. Change references 
+
+Open the bundle config and change them to point at the newly copied scripts from bower.e.g., 
+
+{% gist 785651cfb9a8f1f94469%}
 
 If it works without issue, then feel free to remove the nuGet package and related files. 
 
