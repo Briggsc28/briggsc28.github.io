@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gulp 101 - Move your frontend packages from nuGet to Bower in Visual Studio 2015
-excerpt: "How to use easily move from using nuGet to Bower using Glup."
+excerpt: "How to use easily move from using nuGet to Bower using Gulp."
 modified: 2015-06-06
-tags: [Visual Studio 2015, LESS, CSS, Gulp, Grunt ]
+tags: [Visual Studio 2015, Gulp, Bower ]
 comments: true
 image:
   feature: sample-image-5.jpg
@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-In order to provide the best experience for users, it is web development best practice to employ the the use a range of front-end libraries eg: 
+To provide the best experience for users, it is web development best practice to employ the use a range of front-end libraries, e.g., 
 
 * Angular
 * Aurelia
@@ -30,7 +30,7 @@ Previously in Visual Studio 2013, it was common to use the NuGet package manager
 
 ## The Solution
 
-Is to stop using ill-suited tools and start levage Bower & Gulp. [(Why did I choose Gulp over Grunt? Click here to find out why!)](http://blog.chrisbriggsy.com/Gulp-101-CSS-all-the-LESS/)
+Is to stop using ill-suited tools and start leveraging Bower & Gulp. [(Why did I choose Gulp over Grunt? Click here to find out why!)](http://blog.chrisbriggsy.com/Gulp-101-CSS-all-the-LESS/)
 
 > Now that NPM coming in the box with Visual Studio 2015 setting up Bower & Gulp is mere child's play!
 
@@ -42,9 +42,9 @@ Download and install [Package Installer by Mads Kristensen](https://visualstudio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WigizERVWtc" frameborder="0" allowfullscreen></iframe>
 
-By using this extension, theres no need to stress when installing frontend packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectivly. In order to automatically locate, download and install the required package. <br><br>For completeness, in this blog post I have incuded a step by step guide of the proccess without using Package Installer!
+By using this extension, there's no need to stress when installing frontend packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectively. To automatically locate, download and install the required package. <br><br>For completeness, in this blog post I have included  a step by step guide to the process without using Package Installer.
 
-### 1. Add Glup (package.json)
+### 1. Add Gulp (package.json)
 
 * Create a new package.JSON file in the root of the project
 
@@ -62,7 +62,7 @@ In this file, we define all of our Gulp tasks for the project.
 
 ### 3. Create a Managed folder within the Script directory
 
-This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in-order to reduce headaches during testing.
+This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in order to reduce headaches during testing.
 
 ### 4. Create Bower.JSON
 
@@ -74,15 +74,15 @@ Note that we have defiened Bootstrap and jQuery along with the version numbers, 
 
 ### 5. Run the Bower task
 
-This task will copy the libraries downloaded by Bower into our Managed folder. Than be sure to:
+This task will copy the libraries downloaded by Bower into our Managed folder. Then be sure to:
 
 1. Click show all files
 2. Right click the new folders and add to solution
 
-### 5. Change refferences 
+### 5. Change references 
 
-If it work without issue, than feel free to remove nuGet package and related files. 
+If it works without issue, then feel free to remove the nuGet package and related files. 
 
-> Trick is to change one library at a time then rinse and repeat!
+> The trick is to change one library at a time then rinse and repeat!
  
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
