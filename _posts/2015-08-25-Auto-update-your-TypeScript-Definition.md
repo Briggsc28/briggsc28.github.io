@@ -47,9 +47,9 @@ These definitions are extremely useful, if not required when working with  TypeS
 
 {% gist 7ca0463ae47890ddcd63%}
 
-### 5. Run the Bower task
+### 5. Test run the task
 
-![Click show all files](/images/2015-08-24_12-22-41-compressor.png)
+![Definitions](/images/2015-08-24_12-22-41-compressor.png)
 
 1. Click show all files
 2. Check to see if your definitions are in the typing folder
