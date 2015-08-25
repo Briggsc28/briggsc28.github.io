@@ -20,13 +20,13 @@ Let's create a Gulp simple task which will fetch the lastest version of the defi
 
 > We going to use gulp_tsd this allows us automate the process of using tsd, a tool provided by the DefinitelyTyped community, to fetch TypeScript definitions.
 
-### 1. Add the package (package.json)
+### 1. Add the NPM packages
 
 * Create a new package.JSON file in the root of the project
 
-{% gist 0f62c09aa19abd2f9b46%}
+{% gist b0501c7784065c2a3f80%}
 
-### 2. Add the gulp task (gulpfile.js)
+### 2. Add the Gulp task
 
 * Create a new gulpfile.js file in the root of the project
 
@@ -34,36 +34,32 @@ In this file, all of the Gulp magic happens. It contains all of the Gulp tasks f
 
 * Copy and paste the following into the new file
 
-{% gist 94cbf6b0dfcf9cda2586%}
+{% gist 5d73d87ae079f4499d18%}
 
-### 3. Create the gulp_tsd.json
-
-This is the setting file for gulp_tsd plugin.
+### 3. Add the setting file for gulp_tsd plugin
 
 * Create a new gulp_tsd.json file in the root of the project
-
 * Copy and paste the following into the new file
 
-{% gist 94cbf6b0dfcf9cda2586%}
+{% gist 12a61af0f67148aaac85%}
 
-### 4. Write the tsd.json
-
-This is the Configuration file for tsd.
+### 4. Add the Configuration file for tsd
 
 * Create a new tsd.json file in the root of the project
-
 * Copy and paste the following into the new file
 
-{% gist 94cbf6b0dfcf9cda2586%}
+{% gist 7ca0463ae47890ddcd63%}
 
 ### 5. Run the Bower task
 
 ![Click show all files](/images/2015-08-24_12-22-41-compressor.png)
 
 1. Click show all files
-2. Check to see if your definations are in the typing folder
+2. Check to see if your definitions are in the typing folder
 
-> It is important to not check the definations as they are only used by the developer machine and should only be created by using the new Gulp task 
+![Definitions are in the typing folder](/images/2015-08-25_12-08-50-compressor.png)
+
+> It is important to not check the definitions as they are only used by the developer machine and should only be created by using the new Gulp task 
 
 ### 6. Tell the Gulp task to run on every Project open
 
