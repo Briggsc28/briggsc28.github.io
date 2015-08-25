@@ -27,6 +27,9 @@ Due to Static typing enabling the compiler to check that operations my JavaScrip
 ### 2. Add the Gulp task
 
 * Create a new gulpfile.js file in the root of the project
+
+In this file, all of the Gulp magic happens. It contains all of the Gulp tasks for the project.
+
 * Copy and paste the following into the new file
 
 {% gist 5d73d87ae079f4499d18%}
