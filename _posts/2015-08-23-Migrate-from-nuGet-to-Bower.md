@@ -13,9 +13,7 @@ image:
 
 To provide the best experience for users, it is best practice to employ a range of front-end libraries, e.g: 
 
-* Angular
-* Aurelia
-* Backbone
+* Angular (Aurelia, Backbone or React)
 * Bootstrap
 * d3
 * Font Awesome
@@ -23,7 +21,7 @@ To provide the best experience for users, it is best practice to employ a range 
 * Modernizr
 * Moment
 * Polymer
-* React
+
 
 > However, many devs know how difficult it is to manage a large script folder. 
 
@@ -45,7 +43,13 @@ Download and install [Package Installer by Mads Kristensen](https://visualstudio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WigizERVWtc" frameborder="0" allowfullscreen></iframe>
 
-By using this extension, there's no need to stress when installing front end packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectively. To automatically locate, download and install the required package. <br><br>If you are using Package Installer, please skip to Step 3.<br><br>For completeness, in this blog post I have included  a step by step guide to the process without using Package Installer.
+By using this extension, there's no need to stress when installing front end packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectively. To automatically locate, download and install the required package. <br><br>If you are using Package Installer, please install the following and than skip to Step 3:<br><br>Add the following from NPM:
+* gulp
+* gulp-bower
+* gulp-config
+* gulp-tsd
+
+For completeness, in this blog post I have included  a step by step guide to the process without using Package Installer.
 
 ### 1. Add Gulp (package.json)
 
@@ -53,7 +57,21 @@ By using this extension, there's no need to stress when installing front end pac
 
 {% gist 04268058101494bcb79e%}
 
-### 2. Add the Bower gulp task (gulpfile.js)
+### 2. Create Bower.JSON
+
+* Create a new Bower.JSON file in the root of the project
+
+{% gist 3b2c2bcffe6a6d8c5d6e%}
+
+Note that we have defined Bootstrap and jQuery along with the version numbers, we wish for Bower to fetch
+
+### 3. Create a Dependencies folder
+
+![Dependencies folder](/images/2015-08-25_20-40-08-compressor.png)<br><br>This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in order to reduce headaches during testing.
+
+> In the new ASP.NET 5,  the default project structure includes a  Dependencies folder, which holds all of your packages from NPM and Bower. 
+
+### 4. Add the Bower gulp task (gulpfile.js)
 
 * Create a new gulpfile.js file in the root of the project
 
@@ -62,20 +80,6 @@ In this file, we define all of our Gulp tasks for the project.
 * Copy and paste the following into the new file
 
 {% gist 40132b5c6c48204f9de8%}
-
-### 3. Create a Dependencies folder
-
-![Dependencies folder](/images/2015-08-25_20-40-08-compressor.png)<br><br>This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in order to reduce headaches during testing.
-
-> In the new ASP.NET 5,  the default project structure includes a  Dependencies folder, which holds all of your packages from NPM and Bower. 
-
-### 4. Create Bower.JSON
-
-* Create a new Bower.JSON file in the root of the project
-
-{% gist 3b2c2bcffe6a6d8c5d6e%}
-
-Note that we have defined Bootstrap and jQuery along with the version numbers, we wish for Bower to fecth
 
 ### 5. Run the Bower task
 
