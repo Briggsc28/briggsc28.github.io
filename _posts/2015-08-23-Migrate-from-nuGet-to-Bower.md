@@ -44,14 +44,13 @@ Download and install [Package Installer by Mads Kristensen](https://visualstudio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WigizERVWtc" frameborder="0" allowfullscreen></iframe>
 
 By using this extension, there's no need to stress when installing front end packages. Due to it automatically creating the required JSON configuration files. The files created by Package Installer will in turn be read by NPM and Bower respectively. To automatically locate, download and install the required package. <br><br>If you are using Package Installer, please install the following and than skip to Step 3:
-<br>
 
-*From NPM:
+* From NPM:
   * gulp
   * gulp-bower
   * gulp-config
   * gulp-tsd
-*  From Bower:
+* From Bower:
   * bootstrap
   * jquery
 
