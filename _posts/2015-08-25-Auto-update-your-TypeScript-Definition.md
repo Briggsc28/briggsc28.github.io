@@ -58,7 +58,7 @@ These definitions are extremely useful, if not required when working with  TypeS
 
 > It is important to not check the definitions as they are only used by the developer machine and should only be created by using the new Gulp task 
 
-### 6. Tell the Gulp task to run on every Project open
+### 6. Set the Gulp task to run on every Project open
 
 * Open the Task Runner Explorer window. 
 * Right-click the task and select when you want it to run in the bindings menu. 
