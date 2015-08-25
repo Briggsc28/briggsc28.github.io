@@ -62,7 +62,7 @@ For completeness, in this blog post I have included  a step by step guide to the
 
 {% gist 04268058101494bcb79e%}
 
-### 2. Create Bower.JSON
+### 2. Add Bower.JSON
 
 * Create a new Bower.JSON file in the root of the project
 
