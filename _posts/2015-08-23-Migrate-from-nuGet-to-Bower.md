@@ -63,9 +63,7 @@ In this file, we define all of our Gulp tasks for the project.
 
 ### 3. Create a Dependencies folder
 
-![Dependencies folder](/images/2015-08-24_12-55-17-compressor.png)
-
-This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in order to reduce headaches during testing.
+![Dependencies folder](/images/2015-08-24_12-55-17-compressor.png)<br><br>This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in order to reduce headaches during testing.
 
 > In the new ASP.NET 5,  the default project structure includes a  Dependencies folder, which holds all of your packages from NPM and Bower. 
 
