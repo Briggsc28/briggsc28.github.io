@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gulp 101 - Automatically update your TypeScript definitions in Visual Studio 2015
-excerpt: "How to use Gulp to compile all .less files to .css automatically."
+excerpt: "Do you use Visual Studio 2015 & Want your TypeScript definitions to automatically upgrade? Then this is the post for you."
 modified: 2015-06-06
 tags: [Visual Studio 2015, TypeScript, JS, Gulp, TypeScript definitions ]
 comments: true
