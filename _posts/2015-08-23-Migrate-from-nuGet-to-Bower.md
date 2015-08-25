@@ -35,7 +35,7 @@ Is to stop using ill-suited tools and start leveraging Bower & Gulp. [(Why did I
 
 > Now that NPM coming in the box with Visual Studio 2015 setting up Bower & Gulp is mere child's play!
 
-## Example Migrate Bootstrap and jQuery from nuGet to Bower 
+## Example: Migrate Bootstrap and jQuery from nuGet to Bower 
 
 By default, all blank ASP.NET 4.5.2 MVC web applications come installed with Bootstrap and jQuery via nuGet. In the following example I will show you the steps required, to make sure you start on the right foot with your new Web app.
 

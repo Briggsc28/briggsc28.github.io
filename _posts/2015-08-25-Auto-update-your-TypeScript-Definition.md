@@ -18,6 +18,8 @@ These definitions are extremely useful, if not required when working with  TypeS
 
 > We going to use gulp_tsd this allows us automate the process of using tsd, a tool provided by the DefinitelyTyped community, to fetch TypeScript definitions.
 
+## Example: Angular TypeScript definition fetched automaticly when the project is opened
+
 ### 1. Add the NPM packages
 
 * Create a new package.JSON file in the root of the project
