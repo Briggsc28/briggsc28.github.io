@@ -3,7 +3,7 @@ layout: post
 title: Gulp 101 - Move your front end packages from nuGet to Bower in Visual Studio 2015
 excerpt: "How to use easily move from using nuGet to Bower using Gulp."
 modified: 2015-06-06
-tags: [Visual Studio 2015, Gulp, Bower ]
+tags: [Visual Studio 2015, Gulp, Bower, Angular, Aurelia, Backbone, Bootstrap, d3, Font Awesome, jQuery, Modernizr, Moment, Polymer, React]
 comments: true
 image:
   feature: sample-image-5.jpg
@@ -19,6 +19,7 @@ To provide the best experience for users, it is best practice to employ a range 
 * Bootstrap
 * d3
 * Font Awesome
+* jQuery
 * Modernizr
 * Moment
 * Polymer
@@ -60,9 +61,13 @@ In this file, we define all of our Gulp tasks for the project.
 
 {% gist 40132b5c6c48204f9de8%}
 
-### 3. Create a Managed folder within the Script directory
+### 3. Create a Dependencies folder
+
+![Dependencies folder](/images/2015-08-24_12-55-17-compressor.png)
 
 This way we can transition from nuGet to Bower safely. It is important to copy the new libraries to a separate folder, in order to reduce headaches during testing.
+
+> In the new ASP.NET 5,  the default project structure includes a  Dependencies folder, which holds all of your packages from NPM and Bower. 
 
 ### 4. Create Bower.JSON
 
@@ -70,7 +75,7 @@ This way we can transition from nuGet to Bower safely. It is important to copy t
 
 {% gist 3b2c2bcffe6a6d8c5d6e%}
 
-Note that we have defiened Bootstrap and jQuery along with the version numbers, we wish for Bower to fecth
+Note that we have defined Bootstrap and jQuery along with the version numbers, we wish for Bower to fecth
 
 ### 5. Run the Bower task
 
