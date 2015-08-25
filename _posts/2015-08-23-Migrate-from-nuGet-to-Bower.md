@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-To provide the best experience for users, it is best practice to employ a range of front-end libraries, e.g., 
+To provide the best experience for users, it is best practice to employ a range of front-end libraries, e.g: 
 
 * Angular
 * Aurelia
