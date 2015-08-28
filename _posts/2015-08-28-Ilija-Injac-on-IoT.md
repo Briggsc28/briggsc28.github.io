@@ -3,7 +3,7 @@ layout: post
 title: The Internet of Things: Ilija Injac on all things IoT and .NET
 excerpt: "Jeremy Cade"
 modified: 2015-08-28
-tags: [IoT, Internet of Things, Interview, Azure, .NET Micro Framework & Windows IoT, netMF ]
+tags: [IoT, Internet of Things, Interview, Azure, NET Micro Framework,  Windows IoT, netMF ]
 comments: true
 image:
   feature: sample-image-5.jpg
