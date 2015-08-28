@@ -29,7 +29,8 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform <BR><BR>
   
 ## Interviews:
-
+* **The Internet of Things - Ilija Injac on all things IoT and .NET:** In this interview, Jeremy Cade and I discuss all things: Azure, .NET Micro Framework & Windows Internet of Things with Pluralsight author and Microsoft Azure MVP Ilija Injac. [Read more...](http://blog.chrisbriggsy.com//Ilija-Injac-on-IoT/)
+  * Topics discussed include: Azure, .NET Micro Framework & Windows IoT<BR>
 * **What’s on the horizon of the Internet of Things (IoT) with Stuart Corner:** In this interview I speak to the creator of [Internet of Things Australia](http://www.iotaustralia.org.au/), a website about all things IoT. Stuart shares his enthusiasm for the potential of IoT in the everyday world and what developers can look forward to with IoT development. [Read more...](http://blog.chrisbriggsy.com/Whats-on-the-horizon-of-IoT/)
   * Topics discussed include: Fog / Edge computing, Future of Networks & the Quantified Self <BR>
  
