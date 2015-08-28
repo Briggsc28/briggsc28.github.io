@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Internet of Things: Ilija Injac on all things IoT and .NET
+title: Discuss all things Azure, .NET Micro Framework & Windows IoT with Pluralsight author and  Microsoft Azure MVP Ilija Injac.
 excerpt: "Jeremy Cade"
 modified: 2015-08-28
 tags: [IoT, Internet of Things, Interview, Azure, NET Micro Framework,  Windows IoT, netMF ]
