@@ -2,7 +2,7 @@
 layout: post
 title: How to connect Application Insights to Power BI via Azure Stream Analytic
 excerpt: "Sadly, there is no out of the box way to connect Power BI and Application Insights, unless we harness the power of Azure Stream Analytics"
-modified: 2015-08-10
+modified: 2015-09-4
 tags: [Windows 10, IoT, Azure, Power BI, Application Insights,  Azure Stream Analytic]
 comments: true
 image:
@@ -11,7 +11,11 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Power BI provides a range of useful connects for services, such as Google Analytics and Mail Chimp. Which make it simple to connect these services together. Although it is possible to connect it to other services as seen in the video below:<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/37_z5PCluDo" frameborder="0" allowfullscreen></iframe><br><br>However sadly, there is no out of the box way to connect Power BI and Application Insights. There are some steps required:<br><br>First we must enable Continuous export. This feature allows Application Insights to continually outputs data to a container.  Note:  you must using the paid tier of Application Insights, to use this feature.Once exported from  Application Insights to a previously configured storage container, we will use Azure Stream Analytics, to digest and export the data to Power BI.
+Power BI provides a range of useful connects for services, such as Google Analytics and Mail Chimp. Which make it simple to connect these services together. Although it is possible to connect it to other services as seen in the video below:
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/37_z5PCluDo" frameborder="0" allowfullscreen></iframe>
+
+However sadly, there is no out of the box way to connect Power BI and Application Insights. There are some steps required:<br><br>First we must enable Continuous export. This feature allows Application Insights to continually outputs data to a container.  Note:  you must using the paid tier of Application Insights, to use this feature.Once exported from  Application Insights to a previously configured storage container, we will use Azure Stream Analytics, to digest and export the data to Power BI.
 
 ## Step 1 - Create storage in Azure
 
@@ -56,8 +60,6 @@ The Path Prefix Pattern defines where Stream Analytics can locate the input file
 
 > blogchrisbriggsy_67af5f56a1cd4d9ebf905e3aebaa9a77/PageViews/{date}/{time}
 
-{% gist 04268058101494bcb79e%}
-
 * blogchrisbriggsy_67af5f56a1cd4d9ebf905e3aebaa9a77 is the path name from Step 4
 * PageViews specifies the type of data to analyze. 
 
@@ -79,7 +81,7 @@ Lastly set the serialization format to JSON
 
 Select the job and click Query. Paste the sample query below. 
 
-{% gist 04268058101494bcb79e%}
+{% gist c255adba341c2b2e8f3a%}
 
 Due to the data being in the format of nested JSON array, we have to use GetElements to fetch, our event JSON object. The Select picks the event name and count of the number of instances. <br><br>When working with Azure Stream Analytics And Power BI it is important to use a GROUP BY clause. Therefore we have applied a TumblingWindow to this data which groups all of events by 1 minute time periods. 
 
@@ -97,9 +99,7 @@ Open Power BI you will find your dataset exported from Application Insights are 
 
 You'll need to refine further your query. The technique I found that works is to download a few of the blobs from the storage container and then use the built-in testing tools on your Azure Stream Analytic page.
 
-![Step 13](/images/AppInsightsPowerBi13-compressor.png)
-
-PLEASE NOTE: The following at the time of writing this blog post, the flow for the Azure Stream Analytics and the beta Power BI connector is:
+![Step 13](/images/AppInsightsPowerBi13-compressor.png)<br><br>PLEASE NOTE: The following at the time of writing this blog post, the flow for the Azure Stream Analytics and the beta Power BI connector is:
 
 *   Each input can only access one data type
 *   Each input must output to a separate output
