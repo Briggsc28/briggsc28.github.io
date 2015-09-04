@@ -11,7 +11,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Power BI provides a range of useful connects for services, such as Google Analytics and Mail Chimp. Which make it simple to connect these services together. Although it is possible to connect it to other services as seen in the video below:
+Power BI provides a range of useful connectors for services, such as Google Analytics and Mail Chimp. Which make it simple to connect these services together. Although it is possible to connect it to other services as seen in the video below:
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37_z5PCluDo" frameborder="0" allowfullscreen></iframe>
 
