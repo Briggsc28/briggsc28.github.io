@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Setting up Dependency Injection for Windows Universal Platform using Autofac
+title: Setting up Dependency Injection for Universal Windows Platform using Autofac
 excerpt: "No matter if its a Windows IoT, Xbox One or Desktop app, Dependency Injection is the secret ingredient for having a having maintainable solution."
 modified: 2015-08-28
-tags: [IoT, Internet of Things, Dependency Injection, Windows Universal Platform, Windows 10, Autofac,  Windows IoT, Xbox one ]
+tags: [IoT, Internet of Things, Dependency Injection, Universal Windows Platform, Windows 10, Autofac,  Windows IoT, Xbox one ]
 comments: true
 image:
   feature: sample-image-5.jpg
@@ -25,7 +25,7 @@ By making use of Dependency Injection, you gain the following benefits:
 
 Furthermore, there are is an additional benefit: To make use of the unique capabilities of the device you are deploying to you must add an Extension SDK Eg Windows IoT Extension SDK. The Extension SDK makes your application belong to a Device Family. Therefore you may receive a 'file not found' exception when your app calls the SDK while running on a device of a different family. Therefore by using Dependency Injection we can substitute this dependency with one that won't cause our code to fall over.
 
-> Dependency Injection allows us to bend the restrictions imposed on developers by the Device Family paradigm within Windows Universal platform!
+> Dependency Injection allows us to bend the restrictions imposed on developers by the Device Family paradigm within Universal Windows Platform!
 
 ## Refactoring a Windows IoT to use Dependency Injection
 
