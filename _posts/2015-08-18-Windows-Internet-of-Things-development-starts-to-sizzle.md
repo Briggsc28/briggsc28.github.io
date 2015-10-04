@@ -22,9 +22,9 @@ With all emerging technologies there are a range of issues. Come hear Chris high
 - Reading sensors data from the GPIO pins on the Pi via the Windows IoT extension SDK 
 - Azure
 
-##Upcoming presentations!
+##Past presentations!
 
 * YOW! Connected 2015 Melbourne
-  * Upcoming : 17-18/09/2015 - Melbourne, Australia
+  * Pasted : 17-18/09/2015 - Melbourne, Australia
 
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).

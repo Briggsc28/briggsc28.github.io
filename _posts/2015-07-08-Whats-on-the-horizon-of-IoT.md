@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s on the horizon of the Internet of Things with Stuart Corner
+title: VIDEO – What’s on the horizon of the Internet of Things with Stuart Corner
 excerpt: "In this interview SSW’s Chris Briggs speaks to the creator of Internet of Things Australia, a website about all things IoT."
 modified: 2015-07-07
 tags: [IoT, Fog computing, Edge computing, Future of Networks & the Quantified Self, 5G, Internet of Things, Interview]

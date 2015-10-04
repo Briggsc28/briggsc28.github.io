@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating SSRS Web-API and AngularJS Part Three
+title: Integrating SQL Server Reporting Services (SSRS) with Web-API and AngularJS - Part Three
 excerpt: "Using PDF.JS to display reports nicely within an AngularJS SPA"
 modified: 2015-04-20
 tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services, PDF.js  ]

@@ -22,20 +22,11 @@ In this presentation you'll learn how to use:
 * Fody
   * To reduce the amount of boilerplate code you'll write! 
 
-##Upcoming presentations!
+##Past presentations!
 
 * Xamarin hack day 
-  * Upcoming : 19/09/2015 - Brisbane, Australia
-
-<div style="width:100%; text-align:left;" >
-  <iframe src="http://www.eventbrite.com/tickets-external?eid=17039715247" frameborder="0" height="256" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-</div>  
-  
+  * Pasted : 19/09/2015 - Brisbane, Australia
 * Xamarin hack day 
-  * Upcoming : 26/09/2015 - Sydney, Australia
+  * Pasted : 26/09/2015 - Sydney, Australia
   
-<div style="width:100%; text-align:left;" >
-  <iframe src="http://www.eventbrite.com/tickets-external?eid=14892335376" frameborder="0" height="256" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-</div>
-
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).

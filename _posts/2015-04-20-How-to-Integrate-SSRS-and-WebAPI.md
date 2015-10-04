@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Integrating SSRS Web-API and AngularJS Part Two
+title: Integrating SQL Server Reporting Services (SSRS) with Web-API and AngularJS - Part Two
 excerpt: "How to render an SSRS report inside a web API."
 modified: 2015-04-20
 tags: [SSRS, Web-API, AngularJS, SQL Server Reporting Services ]
