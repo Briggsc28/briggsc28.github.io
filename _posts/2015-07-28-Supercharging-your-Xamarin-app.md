@@ -24,9 +24,9 @@ In this presentation you'll learn how to use:
 
 ##Past presentations!
 
-* Xamarin hack day 
+* Xamarin Hack Day 
   * Pasted : 19/09/2015 - Brisbane, Australia
-* Xamarin hack day 
+* Xamarin Hack Day 
   * Pasted : 26/09/2015 - Sydney, Australia
   
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).

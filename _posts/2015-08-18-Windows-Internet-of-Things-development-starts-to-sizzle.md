@@ -26,5 +26,7 @@ With all emerging technologies there are a range of issues. Come hear Chris high
 
 * YOW! Connected 2015 Melbourne
   * Pasted : 17-18/09/2015 - Melbourne, Australia
-
+* QUT CODE
+  * Pasted : 10/09/2015 - Brisbane, Australia
+  
 Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
