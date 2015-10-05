@@ -21,7 +21,7 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
 
 * **Windows Internet of Things development starts to sizzle – Learn the Universal Windows Platform:** In this presentation, the attendees will learn how to develop IoT applications that target Windows 10 IoT core, by developing on the Universal Windows Platform (UWP) and how to integrate the solution with Windows Azure. [Read more...](http://blog.chrisbriggsy.com/Windows-Internet-of-Things-development-starts-to-sizzle/)
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform
-  * Presented at: YOW! Connected 2015 & QUT CODE<BR><BR>
+  * Presented at: [YOW! Connected 2015](http://blog.chrisbriggsy.com/YOW-Connected-2015/) & QUT CODE<BR><BR>
     
 * **Supercharging your Xamarin app! 3 must use libraries:** In this upcoming presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!  [Read more...](http://blog.chrisbriggsy.com/Supercharging-your-Xamarin-app/)
   * Technologies used include: Xamarin, Polly, Akavache & Fody
@@ -29,7 +29,7 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
 
 * **Jumping into Windows Internet of Things development by using the Universal Windows Platform:** In this presentation, I build a simple Universal app, deploy it to Raspberry Pi 2, then expand upon the application to read input from sensors and finally establish communication with Azure.  [Read more...](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform
-  * Presented at: [DDD Melbourne](http://blog.chrisbriggsy.com/DDDMelb-2015/), Brisbane .Net User Group & Dev Superpowers Webinar<BR><BR>
+  * Presented at: [DDD Melbourne](http://blog.chrisbriggsy.com/DDDMelb-2015/), Brisbane .Net User Group & [Dev Superpowers Webinar](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)<BR><BR>
   
 ## Interviews:
 * **The Internet of Things - Ilija Injac on all things IoT and .NET:** In this interview, Jeremy Cade and I discuss all things: Azure, .NET Micro Framework & Windows Internet of Things with Pluralsight author and Microsoft Azure MVP Ilija Injac. [Read more...](http://blog.chrisbriggsy.com//Ilija-Injac-on-IoT/)
@@ -47,4 +47,3 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
 * **Security Intrusion response:** Worked With an Australian Web Content Management Solutions (CMS) development company on uncovering the source and techniques used in order to compromise their CMS platform.
   * Technologies used: A wide range of different penetration testing tools including MetaSploit.
   
-> More upcoming! Have a suggestion for a future presentation? Feel free to tweet me [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
