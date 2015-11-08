@@ -19,11 +19,15 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
 
 ## Presentations:
 
+* **Securing AngularJs & Asp 5 Web API - Auth Fundamentals:** In this upcoming presentation, I will take attendees on a step by step journey through the fundamentals of security implementing authentication and authorization when working with a SPA framework.[Read more...](http://blog.chrisbriggsy.com/Securing-AngularJs-Asp-5-Web-API-Auth-Fundamentals/)
+  * Technologies used include:  AngularJS 2 & ASP 5 Web API
+  * Presenting at: DDD Brisbane <BR><BR>
+
 * **Windows Internet of Things development starts to sizzle – Learn the Universal Windows Platform:** In this presentation, the attendees will learn how to develop IoT applications that target Windows 10 IoT core, by developing on the Universal Windows Platform (UWP) and how to integrate the solution with Windows Azure. [Read more...](http://blog.chrisbriggsy.com/Windows-Internet-of-Things-development-starts-to-sizzle/)
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform
   * Presented at: [YOW! Connected 2015](http://blog.chrisbriggsy.com/YOW-Connected-2015/) & QUT CODE<BR><BR>
     
-* **Supercharging your Xamarin app! 3 must use libraries:** In this upcoming presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!  [Read more...](http://blog.chrisbriggsy.com/Supercharging-your-Xamarin-app/)
+* **Supercharging your Xamarin app! 3 must use libraries:** In this presentation, learn how to solve common problems, effortlessly by adding 3 must have libraries to your Xamarin project!  [Read more...](http://blog.chrisbriggsy.com/Supercharging-your-Xamarin-app/)
   * Technologies used include: Xamarin, Polly, Akavache & Fody
   * Presented at: Brisbane & Sydney Xamarin Hack Day 2015 <BR><BR>
 
@@ -32,8 +36,12 @@ Chris is a Senior Software Developer, who heads up IoT at SSW. Based in Brisbane
   * Presented at: [DDD Melbourne](http://blog.chrisbriggsy.com/DDDMelb-2015/), Brisbane .Net User Group & [Dev Superpowers Webinar](http://blog.chrisbriggsy.com/Dev-superpowers-Jumping-into-windows-internet-of-things/)<BR><BR>
   
 ## Interviews:
+* **What is Gamification and how it could work for you:** I sit down and discuss all things Gamification with Zac Fitz-Walter, founder of Gamification Weekly and associate lecturer at the Games Research and Interaction Design (GRID) Lab. [Read more...](http://blog.chrisbriggsy.com/Zac-Fitz-Walter-Gamification/)
+  * Topics discussed include: Gamification, Engagement & Motivation<BR><BR>
+
 * **The Internet of Things - Ilija Injac on all things IoT and .NET:** In this interview, Jeremy Cade and I discuss all things: Azure, .NET Micro Framework & Windows Internet of Things with Pluralsight author and Microsoft Azure MVP Ilija Injac. [Read more...](http://blog.chrisbriggsy.com//Ilija-Injac-on-IoT/)
   * Topics discussed include: Azure, .NET Micro Framework & Windows IoT<BR><BR>
+    
 * **What’s on the horizon of the Internet of Things (IoT) with Stuart Corner:** In this interview I speak to the creator of [Internet of Things Australia](http://www.iotaustralia.org.au/), a website about all things IoT. Stuart shares his enthusiasm for the potential of IoT in the everyday world and what developers can look forward to with IoT development. [Read more...](http://blog.chrisbriggsy.com/Whats-on-the-horizon-of-IoT/)
   * Topics discussed include: Fog / Edge computing, Future of Networks & the Quantified Self <BR><BR>
  
