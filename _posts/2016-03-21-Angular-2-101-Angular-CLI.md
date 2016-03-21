@@ -11,11 +11,9 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Although currently in beta, Angular 2 is shaping up as a great platform for building mobile and desktop web applications. But currently, there is a mountain of boilerplate code, between writing your Components, Directives, Pipes & Services.
-
-In this session, Chris Briggs will save you from repetitive boilerplate code, effortlessly by exploring Angular-CLI, the prototype CLI for Angular 2!
+Although currently in beta, Angular 2 is shaping up as a great platform for building mobile and desktop web applications. But currently, there is a mountain of boilerplate code, between writing your Components, Directives, Pipes & Services.<br><br>In this session, Chris Briggs will save you from repetitive boilerplate code, effortlessly by exploring Angular-CLI, the prototype CLI for Angular 2!
   
-##Upcoming presentations!
+## Upcoming presentations!
 
 * Angular Hack Day 
   * [Upcoming : 09/04/2016 - Melbourne, Australia](http://angularhackday.com/melbourne/)
