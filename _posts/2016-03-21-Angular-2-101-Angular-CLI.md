@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular 2 101 - Angular-CLI 2
+title: Angular 2 101 - Angular-CLI
 excerpt: "In this upcoming presentation, learn how to save yourself from repetitive Angular 2 boilerplate code by leveraging the Angular-CLI"
 modified: 2016-03-21
 tags: [ Angular-CLI, Angular, Angular 2, Angular Hack Day]
