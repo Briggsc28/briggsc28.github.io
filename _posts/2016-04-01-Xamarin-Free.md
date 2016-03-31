@@ -1,0 +1,39 @@
+---
+layout: post
+title: Xamarin going free answers the 2nd most common question at every Xamarin Hack Day
+excerpt: "This is one of the few time I am exicted to be wrong...Xamarin in Visual Studio at no extra cost."
+modified: 2016-03-21
+tags: [Xamarin, Xamarin Hack Day, Visual Studio]
+comments: true
+image:
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+---
+
+I am the organiser of Xamarin Hack Day for Brisbane, Sydney & Melbourne. It's a free event where attendees are taught in the morning about the basics of Xamarin through a series of 15-minute lighting talks by experts.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S6iUXptxhGs" frameborder="0" allowfullscreen></iframe>
+  
+In the afternoon, they fire up their computers and code an app in groups.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The attendees are hard at work creating their <a href="https://twitter.com/hashtag/Xamarin?src=hash">#Xamarin</a> apps <br>With the experts on hand, ready to unblock them. <a href="https://t.co/7ShDER9tLP">pic.twitter.com/7ShDER9tLP</a></p>&mdash; Xamarin Hack Day (@xamarinhackday) <a href="https://twitter.com/xamarinhackday/status/705974110359126016">March 5, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+At the last Xamarin Hack Day, we had 40 attendees in Melbourne, which we hosted the weekend after Microsoft had purchased Xamarin. We considered the turn out excellent due to Xamarin being a niche product and the most expensive option to use in the cross-platform mobile app space. <br><br>The questions most commonly thrown around at the most recent Xamarin Hack Day, bar _'Why doesn't my app work?'_ was something along the lines of: 
+
+* _"Attendee: How much does Xamarin cost?"_
+* __"Me: There's a range of licencing options available but a single licence is $999 US per year. __
+* _"Attendee: *gulp* Oh ok well"_ 
+* __"Me: Microsoft brought Xamarin, hopefully the licence will be included as a part of MSDN __
+
+Or 
+
+* __"Me:  Whats the first thing you hope Microsoft does with Xamarin?__
+* _"Attendee: Make the licence as a part of MSDN"_
+
+We all thought it would never be free out right; it couldn't be, not after Microsoft had paid a pretty penny for Xamarin. But this is one of the few time I am ecstatic to be wrong.
+
+> Xamarin in Visual Studio at no extra cost & the Xamarin SDKs for Android, iOS, and Mac will be open sourced in the next few months!
+
+Breaking down the major issue of cost is a massive boost to the Xamarin community. I am looking forward to seeing how the community and the Hack Day grow over the next 12 months.<br><br>These Hack Days are community events which have been run all over the world including the US, China and Europe. Are you interested in having a Xamarin Hack Day near you? [Then get in touch me.](<http://xamarinhackday.com/xamarin-hack-day-near-you/>)<br><br>Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).  
