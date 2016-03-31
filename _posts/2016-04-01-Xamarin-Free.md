@@ -30,7 +30,7 @@ At the last Xamarin Hack Day, we had 40 attendees in Melbourne, which we hosted 
 Or 
 
 * __"Me:  Whats the first thing you hope Microsoft does with Xamarin?__
-* _"Attendee: Make the licence as a part of MSDN"_
+* _"Attendee: Make the licence a part of MSDN"_
 
 We all thought it would never be free out right; it couldn't be, not after Microsoft had paid a pretty penny for Xamarin. But this is one of the few time I am ecstatic to be wrong.
 
