@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xamarin going free answers the 2nd most common question at every Xamarin Hack Day
-excerpt: "This is one of the few time I am exicted to be wrong...Xamarin in Visual Studio at no extra cost."
+excerpt: "This is one of the few time I am exicted to be wrong.Xamarin in Visual Studio at no extra cost."
 modified: 2016-03-21
 tags: [Xamarin, Xamarin Hack Day, Visual Studio]
 comments: true
