@@ -15,9 +15,7 @@ I am the organiser of Xamarin Hack Day for Brisbane, Sydney & Melbourne. It's a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6iUXptxhGs" frameborder="0" allowfullscreen></iframe>
   
-In the afternoon, they fire up their computers and code an app in groups.
-
-<p lang="en" dir="ltr">The attendees are hard at work creating their <a href="https://twitter.com/hashtag/Xamarin?src=hash">#Xamarin</a> apps <br>With the experts on hand, ready to unblock them. <a href="https://t.co/7ShDER9tLP">pic.twitter.com/7ShDER9tLP</a></p>&mdash; Xamarin Hack Day (@xamarinhackday) <a href="https://twitter.com/xamarinhackday/status/705974110359126016">March 5, 2016</a>
+In the afternoon, they fire up their computers and code an app in groups, with the experts on hand, ready to unblock them.
 
 At the last Xamarin Hack Day, we had 40 attendees in Melbourne, which we hosted the weekend after Microsoft had purchased Xamarin. We considered the turn out excellent due to Xamarin being a niche product and the most expensive option to use in the cross-platform mobile app space. <br><br>The questions most commonly thrown around at the most recent Xamarin Hack Day, bar _'Why doesn't my app work?'_ was something along the lines of: 
 
