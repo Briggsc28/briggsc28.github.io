@@ -22,15 +22,15 @@ In the afternoon, they fire up their computers and code an app in groups.
 
 At the last Xamarin Hack Day, we had 40 attendees in Melbourne, which we hosted the weekend after Microsoft had purchased Xamarin. We considered the turn out excellent due to Xamarin being a niche product and the most expensive option to use in the cross-platform mobile app space. <br><br>The questions most commonly thrown around at the most recent Xamarin Hack Day, bar _'Why doesn't my app work?'_ was something along the lines of: 
 
-* _"Attendee: How much does Xamarin cost?"_
-* __"Me: There's a range of licencing options available but a single licence is $999 US per year. __
-* _"Attendee: *gulp* Oh ok well"_ 
-* __"Me: Microsoft brought Xamarin, hopefully the licence will be included as a part of MSDN __
+* Attendee: How much does Xamarin cost?_
+* Me: There's a range of licencing options available but a single licence is $999 US per year
+* Attendee: _gulp_ Oh ok well"_ 
+* Me: Microsoft brought Xamarin, hopefully the licence will be included as a part of MSDN
 
 Or 
 
-* __"Me:  Whats the first thing you hope Microsoft does with Xamarin?__
-* _"Attendee: Make the licence a part of MSDN"_
+* Me:  Whats the first thing you hope Microsoft does with Xamarin?
+* Attendee: Make the licence a part of MSDN
 
 We all thought it would never be free out right; it couldn't be, not after Microsoft had paid a pretty penny for Xamarin. But this is one of the few time I am ecstatic to be wrong.
 
