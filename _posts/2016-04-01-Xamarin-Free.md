@@ -16,21 +16,17 @@ I am the organiser of Xamarin Hack Day for Brisbane, Sydney & Melbourne. It's a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6iUXptxhGs" frameborder="0" allowfullscreen></iframe>
   
-In the afternoon, they fire up their computers and code an app in groups with the experts on hand, ready to unblock them.
+<br><br>In the afternoon, they fire up their computers and code an app in groups with the experts on hand, ready to unblock them.<br><br>![With the experts on hand, ready to unblock them.](/images/ExpertsOnHand.jpg)<br><br>At the last Xamarin Hack Day, we had 40 attendees in Melbourne, which we hosted the weekend after Microsoft had purchased Xamarin. We considered the turn out excellent due to Xamarin being a niche product and the most expensive option to use in the cross-platform mobile app space. <br><br>The questions most commonly thrown around at the most recent Xamarin Hack Day, bar _'Why doesn't my app work?'_ was something along the lines of: 
 
-![With the experts on hand, ready to unblock them.](/images/ExpertsOnHand.jpg)
-
-At the last Xamarin Hack Day, we had 40 attendees in Melbourne, which we hosted the weekend after Microsoft had purchased Xamarin. We considered the turn out excellent due to Xamarin being a niche product and the most expensive option to use in the cross-platform mobile app space. <br><br>The questions most commonly thrown around at the most recent Xamarin Hack Day, bar _'Why doesn't my app work?'_ was something along the lines of: 
-
-* _"Attendee: How much does Xamarin cost?"_
-* __"Me: There's a range of licencing options available but a single licence is $999 US per year." __
-* _"Attendee: *gulp* Oh ok well"_ 
-* __"Me: Microsoft brought Xamarin, hopefully the licence will be included as a part of MSDN" __
+* _Attendee: How much does Xamarin cost?_
+* Me: There's a range of licencing options available but a single licence is $999 US per year.
+* _Attendee: *gulp* Oh ok well_ 
+* Me: Microsoft brought Xamarin, hopefully the licence will be included as a part of MSDN
 
 Or 
 
-* __"Me:  Whats the first thing you hope Microsoft does with Xamarin?"__
-* _"Attendee: Make the licence as a part of MSDN"_
+* Me:  Whats the first thing you hope Microsoft does with Xamarin?
+* _Attendee: Make the licence as a part of MSDN_
 
 We all thought it would never be free; it couldn't be, not after Microsoft had paid a pretty penny for Xamarin. But this is one of the few time I am ecstatic to be wrong:
 
