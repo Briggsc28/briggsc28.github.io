@@ -20,7 +20,7 @@ I am the organiser of Xamarin Hack Day for Brisbane, Sydney & Melbourne. It's a 
 
 * _Attendee: How much does Xamarin cost?_
 * Me: There's a range of licencing options available but a single licence is $999 US per year.
-* _Attendee: *gulp* Oh ok well_ 
+* _Attendee: **gulp** Oh ok well_ 
 * Me: Microsoft brought Xamarin, hopefully the licence will be included as a part of MSDN
 
 Or 
