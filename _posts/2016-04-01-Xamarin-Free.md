@@ -12,7 +12,7 @@ image:
 ---
 
 
-I am the lead organiser of [Xamarin Hack Day](http://xamarinhackday.com/) a community initiative by [SSW]("https://www.ssw.com.au/") for Brisbane, Sydney & Melbourne. It's a free event where attendees are taught in the morning about the basics of Xamarin through a series of 15-minute lighting talks by experts.  
+I am the lead organiser of [Xamarin Hack Day](http://xamarinhackday.com/) a community initiative by [SSW](https://www.ssw.com.au/) for Brisbane, Sydney & Melbourne. It's a free event where attendees are taught in the morning about the basics of Xamarin through a series of 15-minute lighting talks by experts.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6iUXptxhGs" frameborder="0" allowfullscreen></iframe>
   
