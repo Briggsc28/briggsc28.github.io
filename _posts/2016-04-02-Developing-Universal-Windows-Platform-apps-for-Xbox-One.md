@@ -6,7 +6,7 @@ modified: 2016-04-03
 tags: [UWP, Universal Windows App, Visual Studio, Developer Mode, app, game, Xbox, Xbox one, C#, .Net, Rest]
 comments: true
 image:
-  feature:Activate-Xbox-One.jpg
+  feature: ActivateXboxOne.jpg
   credit: ChrisBriggsy
   creditlink: https://twitter.com/ChrisBriggsy
 ---
