@@ -11,16 +11,12 @@ image:
   creditlink: https://twitter.com/ChrisBriggsy
 ---
 
-I've always loved gaming and have been programming games for a few years on the side as a hobby. When the Xbox One was first announced, the feature I was most excited about was the possibility of using my Xbox One as a development unit.
-
-With the release of the Universal Windows Platform (UWP), a .Net platform which enables developers build one solution across PC, mobile Raspberry Pi, Hololens, Xbox One and more, my dream of creating great apps and games for Xbox One seemed to within reach...but, you needed to be a part of the ID@XBOX program. Until:
+I've always loved gaming and have been programming games for a few years on the side as a hobby. When the Xbox One was first announced, the feature I was most excited about was the possibility of using my Xbox One as a development unit.<br><br>With the release of the Universal Windows Platform (UWP), a .Net platform which enables developers build one solution across PC, mobile Raspberry Pi, Hololens, Xbox One and more, my dream of creating great apps and games for Xbox One seemed to within reach...but, you needed to be a part of the ID@XBOX program. Until:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">At //build, Phil Spencer just announced Xbox Dev Mode for Xbox One. Now anyone can start creating on Xbox One!</p>&mdash; ID@Xbox (@ID_Xbox) <a href="https://twitter.com/ID_Xbox/status/715216845918179328">March 30, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In this tutorial, we will enable the new "Dev Mode" to create a simple Universal Windows App that will run on the Xbox One. The app will make a REST call to open weather map to fetch the current weather information as JSON.  Display this information after deserializing it by using the JSON.Net NuGet package.
-
-For people who have seen my Windows UWP IoT talks. The above will sound familiar as it is the exact code that I use as a part of my presentations.
+In this tutorial, we will enable the new "Dev Mode" to create a simple Universal Windows App that will run on the Xbox One. The app will make a REST call to open weather map to fetch the current weather information as JSON.  Display this information after deserializing it by using the JSON.Net NuGet package.<br><br>For people who have seen my Windows UWP IoT talks. The above will sound familiar as it is the exact code that I use as a part of my presentations.
 
 Before you begin, you will need the following:
 
@@ -49,7 +45,7 @@ To enable ‘Developer Mode’ on your Xbox One you must perform the following S
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/yoWCoHQgKmY" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe> 
 
-## Step 2:  Create a new universal application
+## Step 2:  Create a new Universal Windows Application
 
 ![New UWP App](/images/NewXboxUWPApp.png)
 
@@ -73,9 +69,7 @@ Go to the code behind the Main page.xmal and here we will use the HttpClient to 
 
 ## Step 6.  Target the Xbox one with Visual Studio
 
-Pressing start right now, would deploy the app to your local machine. It is recommended that you run the app locally before trying to deploy it to the Xbox. To make sure everything is working as expected.
-
-In-order for your code to deployed to the Xbox One you must perform the following Steps:
+Pressing start right now, would deploy the app to your local machine. It is recommended that you run the app locally before trying to deploy it to the Xbox. To make sure everything is working as expected.<br><br>In-order for your code to deployed to the Xbox One you must perform the following Steps:
 
 1. Change the solution platform to x86
 2. On the run button click the small down arrow and select Remote Machine \
@@ -99,7 +93,5 @@ To go back to ‘Retail Mode’, open the ‘Dev Home’ setting and select ‘L
 
 ## An error occurred!
 
-If you are experiencing issues deploying your UWP app then read the ['Fixing deployment failures'](https://msdn.microsoft.com/en-us/windows/uwp/xbox-apps/frequently-asked-questions#fixing-deployment-failures ) section of the FAQ page. 
-
-Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
+If you are experiencing issues deploying your UWP app then read the ['Fixing deployment failures'](https://msdn.microsoft.com/en-us/windows/uwp/xbox-apps/frequently-asked-questions#fixing-deployment-failures ) section of the FAQ page. <br><br>Feel free to tweet me comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
 
