@@ -12,10 +12,9 @@ image:
 ---
 
 Yesterday, we hosted the first ever Angular Hack Day Sydney. Hackdays are a regularly run fun event where a range of developers come together to learn from each other. The focus of the event got people over their beginner's block with Angular 2 and they ended the day loving Angular 2.
- 
+<br>
 ![Eager Hackers](/images/FullSizeRender (1).jpg)
-
-The day opened with a warm welcome from Adam Cogan. He left the room in stitches with the story of SSW’s herculean effort to renovate the [sparklingly new 180 square meters venue](https://www.ssw.com.au/ssw/Events/Venues/Hire-Conference-Room.aspx) in a week. This was followed up with 3 x 15-minute lightning talks. The topics started at the basics of Angular 2 and finished peering into the future of Angular 2 development.
+<br>The day opened with a warm welcome from Adam Cogan. He left the room in stitches with the story of SSW’s herculean effort to renovate the [sparklingly new 180 square meters venue](https://www.ssw.com.au/ssw/Events/Venues/Hire-Conference-Room.aspx) in a week. This was followed up with 3 x 15-minute lightning talks. The topics started at the basics of Angular 2 and finished peering into the future of Angular 2 development.
 
 ![Adam Cogan](/images/FullSizeRender (4).jpg)
 
