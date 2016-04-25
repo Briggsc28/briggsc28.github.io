@@ -6,7 +6,7 @@ modified: 2016-04-24
 tags: [Angular 2, Anuglar Hack Day, Visual Studio code, SSW, Rules to Better Angular 2]
 comments: true
 image:
-  feature: FullSizeRender (1).jpg
+  feature:FullSizeRender (1).jpg
   credit: ChrisBriggsy
   creditlink: https://twitter.com/ChrisBriggsy
 ---
