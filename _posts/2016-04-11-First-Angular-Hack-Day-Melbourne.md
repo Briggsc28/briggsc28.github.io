@@ -22,7 +22,7 @@ As one of the organisers of the Angular Hack Day, it was incredible seeing so ma
  
 SSW will be releasing the video recordings of the speaker presentations soon over at [tv.ssw.com](http://tv.ssw.com/?s=angular).<br><br>After the round of lighting talks, attendees fired up their computers and coded an app in groups with the experts on hand, ready to unblock them. The attendees worked on a range of projects from the speaker challenges to integrating Blockly, a library for building visual programming editors with Angular 2. 
  
-> Check out Gregor Pacnik angular2-blockly project he wrote wrote at Angular Hack Day Melbourne on his [github](https://github.com/sharpmonkey/angular2-blockly).
+> Check out Gregor Pacnik angular2-blockly project he wrote at Angular Hack Day Melbourne on his [github](https://github.com/sharpmonkey/angular2-blockly).
  
 In the afternoon, the attendees got up, shared what they wrote and presented on what they had learned. Although everyone who wrote an app on the day was a winner.
 ![Attendee showing off his app](/images/IMG_3003-compressor.jpg)  
