@@ -11,7 +11,7 @@ image:
   creditlink: https://twitter.com/ChrisBriggsy
 ---
 
-Rounding up the first ever series of Angular Hack Days, was Angular Hack Day Brisbane, after the previous events had packed out our venues, it was very encouraging to see Brisbane, my home town do the same.
+Rounding up the first ever series of Angular Hack Days in Brisbane, after the previous packed out events. It was very encouraging to see the same in Brisbane, my home town.
 <br><br>
 ![Attendees](/images/AngularHackDayBrisbaneWinner2016Attendees.jpg)
 <br><br>
@@ -21,11 +21,11 @@ In the morning, the attendees were taught the basics of Angular 2 through a seri
 * Scott Barnes – Adaptive and Responsive Design devs walk into a bar...
 * Chris Briggs – Angular 2 101 – Angular-CLI.
 
-After the round of lighting talks, Adam took attendees on an extended Angular 2 101 class which taught them a crash course on Angular 2. 
+After the round of lighting talks, Adam took attendees on a crash course of Angular 2. 
 <br><br>
 ![Teaching](/images/AngularHackDayBrisbaneTeaching.jpg)
 <br><br>
-In the afternoon, the attendees got up, shared what they wrote and presented on what they had learned. Although everyone who wrote an app on the day was a winner. In the end, only one can hold the Trophy aloft, congratulations to Jason Taylor.
+In the afternoon, the attendees shared what they wrote and presented what they had learned. Although everyone who wrote an app on the day was a winner. In the end, only one can hold the Trophy aloft, congratulations to Jason Taylor.
 <br><br>
 ![Angular Hack Day Brisbane Winner 2016 Jason Taylor](/images/AngularHackDayBrisbaneWinner2016JasonTaylor.jpg)
 <br><br>
