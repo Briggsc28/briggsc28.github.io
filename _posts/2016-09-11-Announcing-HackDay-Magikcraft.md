@@ -17,4 +17,4 @@ image:
 
 <br><br>There next Magikcraft HackDay event will be Saturday, September 17, 2016 at Cisco 340 Adelaide St, Brisbane, QLD 4000 you can [buy tickets at http://magikcraft.eventbrite.com](http://magikcraft.eventbrite.com).
 
-> [Join the HackDay.io meetup group now to stay in the loop with any upcoming events.](https://www.meetup.com/hackday-io-Brisbane/)
+<br><br>[Join the HackDay.io meetup group now to stay in the loop with any upcoming events.](https://www.meetup.com/hackday-io-Brisbane/)
