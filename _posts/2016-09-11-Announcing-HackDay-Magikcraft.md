@@ -11,9 +11,7 @@ image:
   creditlink: https://twitter.com/ChrisBriggsy
 ---
 
-![HackDay.io Magikcraft logos](/images/Hackday-Magikcraft.png)
-
-I am proud to announce that HackDay.io has partnered with and is actively supporting Magikcraft; a Brisbane start-up, focused on sharing the love of code with children through Minecraft. The Magikcraft team utilises incidental learning; by embedding problems into Minecraft, to teach kids to code.
+![HackDay.io Magikcraft logos](/images/Hackday-Magikcraft.png)<br><br>I am proud to announce that HackDay.io has partnered with and is actively supporting Magikcraft; a Brisbane start-up, focused on sharing the love of code with children through Minecraft. The Magikcraft team utilises incidental learning; by embedding problems into Minecraft, to teach kids to code.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/8rMzv4rG3hE" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 
