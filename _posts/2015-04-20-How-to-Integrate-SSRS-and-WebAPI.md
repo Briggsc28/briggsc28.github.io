@@ -59,6 +59,6 @@ Quick run down of the Pseudocode for this API endpoint
 1. Render the report to a byte array
 1. Return the byte array to the client 
 
-[Now the API is returning a PDF, what's the best way to display it?](http://blog.chrisbriggsy.com/the-first-step-towards-integration/)
+[Now the API is returning a PDF, what's the best way to display it?](http://blog.chrisbriggsy.com/AngularJS-SSRS-Pdf-integration/)
 
 Feel free to tweet me a comments, feedback or questions to [@ChrisBriggsy](https://twitter.com/ChrisBriggsy).
