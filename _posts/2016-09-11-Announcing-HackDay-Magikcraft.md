@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing HackDay.io is proudly supported Magikcraft
+title: Announcing HackDay.io is proudly supporting Magikcraft
 excerpt: "Proud to announce that HackDay.io has partnered with supporting Magikcraft"
 modified: 2016-09-11
 tags: [Magikcraft, HackDay.io, Xamarin Hack Days, Angular Hack Days,  Meetup ]
