@@ -10,11 +10,11 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Chris is a Brisbane based Software Engineer, who is most well known for his community event organising, whose previously responsible for organising Angular, Magickcraft & Xamarin events across Australia with more to come in the future.<BR><BR>Formerly a consultant with SSW, Chris has now focused his attention on solving problems in the Event Ticketing space, which intersects IoT, Dev-Ops, Security, Micoserivces & Xamarin.<BR><BR>Chris’ most interesting achievement for 2017 was being the Azure Functions expert on the technical team who was responsible running a successful world record attempt at Microsoft Ignite in Minecraft.<BR><BR>When you don't find Chris at his desk, with a stack of technical books next to him he's coding away at a problem. You'll find him attempting to apply that same mindset to engineering his way to the perfect cup of coffee.
+Chris is a Brisbane based Software Engineer, who is most well known for his community event organising, whose previously responsible for organising Angular, Magickcraft & Xamarin events across Australia with more to come in the future.<BR><BR>Formerly a consultant with SSW, Chris has now focused his attention on solving problems in the Event Ticketing space, which intersects IoT, Dev-Ops, Security, Micoserivces & Xamarin.<BR><BR>Chris’ most interesting achievement for 2017 was being the Azure Functions expert on the technical team who was responsible running a successful world record attempt at Microsoft Ignite in Minecraft.He helped 30 kids kill 13,584 Minecraft Zombies in 10 minutes using JavaScript lightning, while generating over 2 million log messages.<BR><BR>When you don't find Chris at his desk, with a stack of technical books next to him he's coding away at a problem. You'll find him attempting to apply that same mindset to engineering his way to the perfect cup of coffee.
 
 ## Presentations:
 
-* **Let's set a world reord! (Azure functions & brainnnssss):** In this lighting talk, I talk about the experience of getting ready to capture the metrics for Magickcrafts world record attempt at killing the most zombies in Minecraft with JavaScript. [Read more...](https://www.youtube.com/watch?v=wRhP4ReKbGo)
+* **Let's set a world reord! (Azure functions & brainnnssss):** In this lighting talk, I talk about the experience of getting ready to capture the metrics for Magickcraft's world record attempt at killing the most zombies in Minecraft with JavaScript. [Read more...](https://www.youtube.com/watch?v=wRhP4ReKbGo)
   * Technologies used include:  Azure Functions
   * Presented at: BrisJs <BR><BR>
 

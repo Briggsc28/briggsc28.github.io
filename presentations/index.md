@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-* **Let's set a world reord! (Azure functions & brainnnssss):** In this lighting talk, I talk about the experience of getting ready to capture the metrics for Magickcrafts world record attempt at killing the most zombies in Minecraft with JavaScript. [Read more...](https://www.youtube.com/watch?v=wRhP4ReKbGo)
+* **Let's set a world reord! (Azure functions & brainnnssss):** In this lighting talk, I talk about the experience of getting ready to capture the metrics for Magickcraft's world record attempt at killing the most zombies in Minecraft with JavaScript. [Read more...](https://www.youtube.com/watch?v=wRhP4ReKbGo)
   * Technologies used include:  Azure Functions
   * Presented at: BrisJs <BR><BR>
 
