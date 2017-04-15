@@ -10,11 +10,13 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## Presentations:
+* **Let's set a world reord! (Azure functions & brainnnssss):** In this lighting talk, I talk about the experience of getting ready to capture the metrics for Magickcrafts world record attempt at killing the most zombies in Minecraft with JavaScript. [Read more...](https://www.youtube.com/watch?v=wRhP4ReKbGo)
+  * Technologies used include:  Azure Functions
+  * Presenting at: BrisJs <BR><BR>
 
-* **Securing AngularJs & Asp 5 Web API - Auth Fundamentals:** In this upcoming presentation, I will take attendees on a step by step journey through the fundamentals of security implementing authentication and authorization when working with a SPA framework.[Read more...](http://blog.chrisbriggsy.com/Securing-AngularJs-Asp-5-Web-API-Auth-Fundamentals/)
+* **Securing AngularJs & Asp 5 Web API - Auth Fundamentals:** In this presentation, I will take attendees on a step by step journey through the fundamentals of security implementing authentication and authorization when working with a SPA framework.[Read more...](http://blog.chrisbriggsy.com/Securing-AngularJs-Asp-5-Web-API-Auth-Fundamentals/)
   * Technologies used include:  AngularJS 2 & ASP 5 Web API
-  * Presenting at: DDD Brisbane <BR><BR>
+  * Presented at: DDD Brisbane <BR><BR>
 
 * **Windows Internet of Things development starts to sizzle – Learn the Universal Windows Platform:** In this presentation, the attendees will learn how to develop IoT applications that target Windows 10 IoT core, by developing on the Universal Windows Platform (UWP) and how to integrate the solution with Windows Azure. [Read more...](http://blog.chrisbriggsy.com/Windows-Internet-of-Things-development-starts-to-sizzle/)
   * Technologies used include: Azure, Windows IoT & Universal Windows Platform
