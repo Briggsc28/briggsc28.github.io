@@ -10,14 +10,13 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Chris is a Brisbane based Software Engineer, he's passionate about IoT, Scrum, Security, Windows Universal Apps and Xamarin. All the Devs at SSW have been asking Chris, what he thinks the Internet of Things will mean for their day to day lives? It ranges from the impossible to the improbable, from automating their coffee breaks, to telling them exactly when the next bus will arrive!
-
-* Worked with the Brisbane academic development community as a Microsoft Student Partner.
-* Background in security. Represented Queensland University of Technology (QUT) in the national Cyber Security Challenge Australia (CySCA) competitions for three years.
-* Chris worked on a software development project that was demonstrated to a number of large companies in Jakarta, under the new Colombo plan
-* Three month internship with the Department of Defence, working with the Vulnerability Research team on a successful research project culminating in a presentation to Defence Executives.
+Chris is a Brisbane based Software Engineer, who is most well known for his community event organising, whose previously responsible for organising Angular, Magickcraft & Xamarin events across Australia with more to come in the future.<BR><BR>Formerly a consultant with SSW, Chris has now focused his attention on solving problems in the Event Ticketing space, which intersects IoT, Dev-Ops, Security, Micoserivces & Xamarin.<BR><BR>Chris’ most interesting achievement for 2017 was being the Azure Functions expert on the technical team who was responsible running a successful world record attempt at Microsoft Ignite in Minecraft.<BR><BR>When you don't find Chris at his desk, with a stack of technical books next to him he's coding away at a problem. You'll find him attempting to apply that same mindset to engineering his way to the perfect cup of coffee.
 
 ## Presentations:
+
+* **Let's set a world reord! (Azure functions & brainnnssss):** In this lighting talk, I talk about the experience of getting ready to capture the metrics for Magickcrafts world record attempt at killing the most zombies in Minecraft with JavaScript. [Read more...](https://www.youtube.com/watch?v=wRhP4ReKbGo)
+  * Technologies used include:  Azure Functions
+  * Presented at: BrisJs <BR><BR>
 
 * **Securing AngularJs & Asp 5 Web API - Auth Fundamentals:** In this upcoming presentation, I will take attendees on a step by step journey through the fundamentals of security implementing authentication and authorization when working with a SPA framework.[Read more...](http://blog.chrisbriggsy.com/Securing-AngularJs-Asp-5-Web-API-Auth-Fundamentals/)
   * Technologies used include:  AngularJS 2 & ASP 5 Web API
